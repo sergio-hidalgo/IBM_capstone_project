@@ -1,5 +1,5 @@
 # IBM_capstone_project
-Captstone project for the IBM Data Science Professional certificate, based on Foursquare API data
+Captstone project for the IBM Data Science Professional certificate, based on <a href='https://developer.foursquare.com/'>Foursquare API</a> data
 
 Go thorugh a discovery journey of the diverse areas of Toronto city, based on the common and differential venues included on each, by using the Foursquare API info.
 During this journey we will go thorugh the following steps:
@@ -24,4 +24,4 @@ During this journey we will go thorugh the following steps:
   - Cluster postal codes
   - Analyze the clusters
 
-Created by Sergio Hidalgo in March 2021.
+Created by Sergio Hidalgo in March 2021
