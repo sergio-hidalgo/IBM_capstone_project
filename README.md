@@ -4,8 +4,8 @@ Captstone project for the IBM Data Science Professional certificate, based on <a
 Go thorugh a discovery journey of the diverse areas of Toronto city, based on the common and differential venues included on each, by using the Foursquare API info.
 During this journey we will go thorugh the following steps:
 
-* Extract postal codes from Wikipedia page
-  - Parse Wikipedia page
+* Extract Toronto postal codes from Wikipedia page
+  - Parse the <a href='https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M'>Toronto Postal Codes</a> Wikipedia page
   - Convert html object into a dataframe
   - Data cleaning
 * Get latitude and longitude values per postal code
