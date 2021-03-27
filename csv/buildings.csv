@@ -1,0 +1,1423 @@
+﻿District,Neighborhood,Use,number constructions,avg  construction year,total construction surface,avg surface,total value,avg value
+Centro,Palacio,Storage-Parking,2992,1969,205214,69,119478802,39933
+Centro,Palacio,Shopping,1473,1921,233147,158,426916781,289828
+Centro,Palacio,Cultural,36,1934,67718,1881,82383918,2288442
+Centro,Palacio,Hostelry,356,1931,150141,422,278725307,782936
+Centro,Palacio,Industrial,21,1941,2889,138,1980036,94287
+Centro,Palacio,Sports,6,1960,8335,1389,13864668,2310778
+Centro,Palacio,Offices,545,1947,179228,329,305008366,559648
+Centro,Palacio,Singular buiding,16,1890,191798,11987,280081607,17505100
+Centro,Palacio,Religious,18,1883,107441,5969,117636992,6535388
+Centro,Palacio,Spectacles,5,1939,84965,16993,156106207,31221241
+Centro,Palacio,Residential,13416,1927,1359218,101,1871561424,139502
+Centro,Palacio,Health and care,11,1939,25101,2282,27088855,2462623
+Centro,Embajadores,Storage-Parking,4326,1977,268239,62,142284432,32891
+Centro,Embajadores,Shopping,2662,1925,374668,141,536666242,201603
+Centro,Embajadores,Cultural,47,1924,210678,4483,244369218,5199345
+Centro,Embajadores,Hostelry,113,1906,70225,621,113556481,1004925
+Centro,Embajadores,Industrial,25,1938,2982,119,2279998,91200
+Centro,Embajadores,Sports,3,1994,3413,1138,1738356,579452
+Centro,Embajadores,Offices,163,1946,83611,513,77007709,472440
+Centro,Embajadores,Singular buiding,3,1918,18576,6192,18586883,6195628
+Centro,Embajadores,Religious,8,1865,17786,2223,15345569,1918196
+Centro,Embajadores,Spectacles,7,1951,22213,3173,33967259,4852466
+Centro,Embajadores,Residential,25475,1927,1990439,78,2505926976,98368
+Centro,Embajadores,Health and care,10,1984,8915,892,10182156,1018216
+Centro,Cortes,Storage-Parking,1694,1973,120239,71,87480119,51641
+Centro,Cortes,Shopping,885,1916,148879,168,289257669,326845
+Centro,Cortes,Cultural,20,1929,55391,2770,108975973,5448799
+Centro,Cortes,Hostelry,213,1949,299949,1408,586212827,2752173
+Centro,Cortes,Industrial,10,1954,13614,1361,13157239,1315724
+Centro,Cortes,Sports,1,1917,260,260,372685,372685
+Centro,Cortes,Offices,341,1952,333186,977,694782307,2037485
+Centro,Cortes,Singular buiding,24,1935,324278,13512,596523295,24855137
+Centro,Cortes,Religious,8,1868,27211,3401,26654446,3331806
+Centro,Cortes,Spectacles,6,1929,28133,4689,39384196,6564033
+Centro,Cortes,Residential,6598,1923,762251,116,1180424770,178906
+Centro,Cortes,Health and care,3,1924,1746,582,1873470,624490
+Centro,Justicia,Storage-Parking,3147,1980,203733,65,131303176,41723
+Centro,Justicia,Shopping,1431,1923,257088,180,586225151,409661
+Centro,Justicia,Cultural,34,1946,47088,1385,65630087,1930297
+Centro,Justicia,Hostelry,88,1931,97096,1103,219019723,2488860
+Centro,Justicia,Industrial,14,1984,1600,114,1951312,139379
+Centro,Justicia,Sports,11,1978,8030,730,16666619,1515147
+Centro,Justicia,Offices,552,1948,394318,714,864070243,1565345
+Centro,Justicia,Singular buiding,24,1991,159739,6656,293509712,12229571
+Centro,Justicia,Religious,22,1861,20534,933,28052540,1275115
+Centro,Justicia,Spectacles,3,1922,2868,956,4324803,1441601
+Centro,Justicia,Residential,10619,1929,1331879,125,2186160429,205873
+Centro,Justicia,Health and care,6,1978,11792,1965,21058130,3509688
+Centro,Universidad,Storage-Parking,4675,1976,246224,53,149597671,32000
+Centro,Universidad,Shopping,1936,1924,389928,201,950695173,491062
+Centro,Universidad,Cultural,34,1939,89884,2644,94911287,2791508
+Centro,Universidad,Hostelry,174,1936,163551,940,312199477,1794250
+Centro,Universidad,Industrial,36,1941,5844,162,9183149,255087
+Centro,Universidad,Sports,6,1967,1843,307,2695517,449253
+Centro,Universidad,Offices,644,1956,324844,504,572480445,888945
+Centro,Universidad,Singular buiding,16,1954,155662,9729,224156874,14009805
+Centro,Universidad,Religious,17,1905,97893,5758,85411631,5024214
+Centro,Universidad,Spectacles,1,1900,159,159,215201,215201
+Centro,Universidad,Residential,20255,1930,1812936,90,2522276259,124526
+Centro,Universidad,Health and care,21,1927,14384,685,19362105,922005
+Centro,Sol,Storage-Parking,807,1955,101042,125,66227099,82066
+Centro,Sol,Shopping,1296,1917,414154,320,1512523752,1167071
+Centro,Sol,Cultural,6,1921,24300,4050,33521810,5586968
+Centro,Sol,Hostelry,225,1929,210546,936,399815383,1776957
+Centro,Sol,Industrial,6,1962,37,6,44477,7413
+Centro,Sol,Sports,1,1890,797,797,482127,482127
+Centro,Sol,Offices,912,1941,272769,299,482932826,529532
+Centro,Sol,Singular buiding,10,1925,122565,12256,175241372,17524137
+Centro,Sol,Religious,8,1817,18134,2267,16199466,2024933
+Centro,Sol,Spectacles,5,1915,12404,2481,20609185,4121837
+Centro,Sol,Residential,4618,1918,632003,137,914590715,198049
+Centro,Sol,Health and care,2,1958,2629,1314,2176509,1088255
+Arganzuela,Imperial,Storage-Parking,5645,1993,286406,51,133643030,23675
+Arganzuela,Imperial,Shopping,617,1968,92222,149,119755165,194093
+Arganzuela,Imperial,Cultural,9,1962,31477,3497,30049244,3338805
+Arganzuela,Imperial,Hostelry,4,1992,21434,5358,36605060,9151265
+Arganzuela,Imperial,Industrial,35,1988,29685,848,25039765,715422
+Arganzuela,Imperial,Sports,7,1991,23455,3351,27659052,3951293
+Arganzuela,Imperial,Offices,126,1975,72493,575,85987870,682443
+Arganzuela,Imperial,Spectacles,1,1965,2576,2576,3814485,3814485
+Arganzuela,Imperial,Residential,10936,1971,990498,91,1286178418,117610
+Arganzuela,Imperial,Health and care,5,1989,50064,10013,58213484,11642697
+Arganzuela,Acacias,Storage-Parking,10564,1992,475694,45,224524999,21254
+Arganzuela,Acacias,Shopping,1191,1974,187150,157,257468174,216178
+Arganzuela,Acacias,Cultural,28,1981,25236,901,26856261,959152
+Arganzuela,Acacias,Hostelry,1,1993,6565,6565,9777963,9777963
+Arganzuela,Acacias,Industrial,40,1977,12603,315,8826443,220661
+Arganzuela,Acacias,Sports,12,1990,21348,1779,9321748,776812
+Arganzuela,Acacias,Offices,152,1973,51324,338,65339736,429867
+Arganzuela,Acacias,Singular buiding,7,1982,1427,204,1610603,230086
+Arganzuela,Acacias,Religious,4,1986,6554,1638,6954779,1738695
+Arganzuela,Acacias,Residential,17588,1976,1655946,94,2086678978,118642
+Arganzuela,Acacias,Health and care,4,1981,17073,4268,22545380,5636345
+Arganzuela,Chopera,Storage-Parking,2256,1982,110308,49,46589350,20651
+Arganzuela,Chopera,Shopping,626,1955,124563,199,141074926,225359
+Arganzuela,Chopera,Cultural,28,1959,27157,970,25068686,895310
+Arganzuela,Chopera,Hostelry,12,1933,10252,854,13698677,1141556
+Arganzuela,Chopera,Industrial,26,1959,36410,1400,19983793,768607
+Arganzuela,Chopera,Sports,3,1962,967,322,1175061,391687
+Arganzuela,Chopera,Offices,85,1959,17983,212,14278996,167988
+Arganzuela,Chopera,Singular buiding,2,1964,4670,2335,5102151,2551075
+Arganzuela,Chopera,Religious,2,1966,1488,744,1467492,733746
+Arganzuela,Chopera,Residential,9656,1957,770753,80,906096610,93838
+Arganzuela,Chopera,Health and care,10,1954,4303,430,5764432,576443
+Arganzuela,Legazpi,Storage-Parking,8200,2003,288713,35,137494625,16768
+Arganzuela,Legazpi,Shopping,420,1988,65844,157,94737889,225566
+Arganzuela,Legazpi,Cultural,3,2003,12949,4316,14911906,4970635
+Arganzuela,Legazpi,Industrial,80,1980,74345,929,43559858,544498
+Arganzuela,Legazpi,Sports,4,2006,22034,5508,6154451,1538613
+Arganzuela,Legazpi,Offices,201,1977,142354,708,195146030,970876
+Arganzuela,Legazpi,Religious,1,2013,1556,1556,2292883,2292883
+Arganzuela,Legazpi,Spectacles,2,1987,5237,2618,7077685,3538843
+Arganzuela,Legazpi,Residential,8764,1997,934544,107,1320340718,150655
+Arganzuela,Legazpi,Health and care,4,2006,26351,6588,35333246,8833312
+Arganzuela,Delicias,Storage-Parking,6656,1998,281738,42,132796398,19951
+Arganzuela,Delicias,Shopping,715,1963,105194,147,135256074,189169
+Arganzuela,Delicias,Cultural,9,1972,61724,6858,59651169,6627908
+Arganzuela,Delicias,Hostelry,5,1957,4262,852,7146628,1429326
+Arganzuela,Delicias,Industrial,30,1962,143181,4773,98608576,3286953
+Arganzuela,Delicias,Sports,4,1978,8128,2032,7148713,1787178
+Arganzuela,Delicias,Offices,162,1974,279519,1725,385844794,2381758
+Arganzuela,Delicias,Singular buiding,2,1913,38521,19260,37608332,18804166
+Arganzuela,Delicias,Religious,1,1963,3151,3151,2768617,2768617
+Arganzuela,Delicias,Residential,13576,1972,1274427,94,1577657172,116209
+Arganzuela,Delicias,Health and care,5,1960,14215,2843,19984116,3996823
+Arganzuela,Palos de Moguer,Storage-Parking,4816,1992,224881,47,103108037,21409
+Arganzuela,Palos de Moguer,Shopping,1045,1949,172909,165,212859559,203693
+Arganzuela,Palos de Moguer,Cultural,19,1964,96072,5056,90825494,4780289
+Arganzuela,Palos de Moguer,Hostelry,19,1941,39645,2087,55485227,2920275
+Arganzuela,Palos de Moguer,Industrial,40,1968,60615,1515,53118487,1327962
+Arganzuela,Palos de Moguer,Sports,8,1957,15543,1943,19741919,2467740
+Arganzuela,Palos de Moguer,Offices,320,1975,118853,371,145444877,454515
+Arganzuela,Palos de Moguer,Singular buiding,5,1957,24961,4992,22668134,4533627
+Arganzuela,Palos de Moguer,Religious,12,1956,7585,632,6793371,566114
+Arganzuela,Palos de Moguer,Spectacles,3,1973,11203,3734,15279240,5093080
+Arganzuela,Palos de Moguer,Residential,13567,1954,1170928,86,1373298818,101223
+Arganzuela,Palos de Moguer,Health and care,2,1999,8736,4368,9394593,4697297
+Arganzuela,Atocha,Storage-Parking,906,2001,52463,58,38103759,42057
+Arganzuela,Atocha,Shopping,18,1985,114436,6358,158110867,8783937
+Arganzuela,Atocha,Cultural,1,2013,7482,7482,5897609,5897609
+Arganzuela,Atocha,Industrial,20,1978,175982,8799,239972365,11998618
+Arganzuela,Atocha,Offices,135,1993,116665,864,179032154,1326164
+Arganzuela,Atocha,Spectacles,1,1997,18565,18565,22926446,22926446
+Arganzuela,Atocha,Residential,605,2003,68512,113,104527807,172773
+Retiro,Pacifico,Storage-Parking,6703,1987,353172,53,143909793,21469
+Retiro,Pacifico,Shopping,967,1960,168654,174,208610639,215730
+Retiro,Pacifico,Cultural,14,1954,40896,2921,35075915,2505423
+Retiro,Pacifico,Hostelry,1,1994,1638,1638,2073397,2073397
+Retiro,Pacifico,Industrial,41,1966,17757,433,14702005,358585
+Retiro,Pacifico,Sports,5,1952,756,151,1092443,218489
+Retiro,Pacifico,Offices,353,1970,159187,451,202279241,573029
+Retiro,Pacifico,Singular buiding,7,1956,17134,2448,14923553,2131936
+Retiro,Pacifico,Religious,2,1971,6086,3043,7431195,3715598
+Retiro,Pacifico,Residential,16793,1964,1603122,95,2057449532,122518
+Retiro,Pacifico,Health and care,1,1955,152,152,154941,154941
+Retiro,Adelfas,Storage-Parking,6394,1998,247016,39,113475158,17747
+Retiro,Adelfas,Shopping,322,1976,56109,174,73833586,229297
+Retiro,Adelfas,Cultural,5,1961,12789,2558,11605800,2321160
+Retiro,Adelfas,Hostelry,8,1977,11658,1457,22808923,2851115
+Retiro,Adelfas,Industrial,284,1965,22555,79,17188078,60521
+Retiro,Adelfas,Sports,5,1989,10080,2016,7044437,1408887
+Retiro,Adelfas,Offices,169,1979,83636,495,103422034,611965
+Retiro,Adelfas,Religious,2,1986,1773,886,1880510,940255
+Retiro,Adelfas,Residential,8845,1984,882899,100,1212617679,137096
+Retiro,Adelfas,Health and care,7,1988,33381,4769,31070514,4438645
+Retiro,Estrella,Storage-Parking,5438,1986,282255,52,130957625,24082
+Retiro,Estrella,Shopping,316,1970,36570,116,48756008,154291
+Retiro,Estrella,Cultural,7,1975,38567,5510,39952809,5707544
+Retiro,Estrella,Hostelry,7,1966,20811,2973,33386412,4769487
+Retiro,Estrella,Industrial,9,1974,5642,627,5569191,618799
+Retiro,Estrella,Sports,5,1977,30901,6180,31321521,6264304
+Retiro,Estrella,Offices,239,1975,104993,439,160619780,672049
+Retiro,Estrella,Religious,5,1970,5436,1087,6158703,1231741
+Retiro,Estrella,Residential,9401,1973,1238990,132,1728927437,183909
+Retiro,Estrella,Health and care,9,1979,45502,5056,52534308,5837145
+Retiro,Ibiza,Storage-Parking,2371,1978,199427,84,156751095,66112
+Retiro,Ibiza,Shopping,822,1947,106657,130,194733067,236902
+Retiro,Ibiza,Cultural,4,1946,4402,1100,5768875,1442219
+Retiro,Ibiza,Industrial,24,1950,6574,274,8078529,336605
+Retiro,Ibiza,Offices,223,1963,47355,212,100299218,449772
+Retiro,Ibiza,Singular buiding,1,1952,1648,1648,2026437,2026437
+Retiro,Ibiza,Religious,5,1969,7356,1471,8585123,1717025
+Retiro,Ibiza,Spectacles,1,1945,1289,1289,2402045,2402045
+Retiro,Ibiza,Residential,10321,1948,1179488,114,1986973613,192518
+Retiro,Ibiza,Health and care,7,1963,201349,28764,341965687,48852241
+Retiro,Jeronimos,Storage-Parking,520,1960,76045,146,62797368,120764
+Retiro,Jeronimos,Shopping,201,1940,47678,237,89931330,447420
+Retiro,Jeronimos,Cultural,13,1970,115378,8875,207925647,15994281
+Retiro,Jeronimos,Hostelry,25,1985,68267,2731,165157330,6606293
+Retiro,Jeronimos,Industrial,58,1965,65887,1136,69112507,1191595
+Retiro,Jeronimos,Sports,4,1984,12809,3202,13349105,3337276
+Retiro,Jeronimos,Offices,271,1944,230174,849,616216895,2273863
+Retiro,Jeronimos,Singular buiding,21,1960,183133,8721,403015135,19191197
+Retiro,Jeronimos,Spectacles,3,1999,5729,1910,10289622,3429874
+Retiro,Jeronimos,Residential,3194,1950,610098,191,1336069353,418306
+Retiro,Jeronimos,Health and care,1,1900,3087,3087,4874684,4874684
+Retiro,Niño Jesus,Storage-Parking,1895,1984,197122,104,86065695,45417
+Retiro,Niño Jesus,Shopping,293,1967,95688,327,132831540,453350
+Retiro,Niño Jesus,Cultural,19,1945,22949,1208,34565367,1819230
+Retiro,Niño Jesus,Hostelry,1,2013,48,48,932232,932232
+Retiro,Niño Jesus,Industrial,8,1729,625,78,697871,87234
+Retiro,Niño Jesus,Sports,9,1974,2766,307,1930280,214476
+Retiro,Niño Jesus,Offices,254,1969,93972,370,147506821,580736
+Retiro,Niño Jesus,Religious,6,1981,7914,1319,10890196,1815033
+Retiro,Niño Jesus,Residential,6277,1968,901909,144,1573973253,250752
+Retiro,Niño Jesus,Health and care,18,1962,45384,2521,58369367,3242743
+Salamanca,Recoletos,Storage-Parking,4640,1975,384839,83,360060599,77599
+Salamanca,Recoletos,Shopping,1355,1941,352432,260,1216804424,898011
+Salamanca,Recoletos,Cultural,21,1932,89128,4244,169988856,8094707
+Salamanca,Recoletos,Hostelry,49,1989,117676,2402,298871530,6099419
+Salamanca,Recoletos,Industrial,27,1957,13091,485,15810466,585573
+Salamanca,Recoletos,Sports,2,1994,30071,15036,32955086,16477543
+Salamanca,Recoletos,Offices,988,1956,563644,570,1459913403,1477645
+Salamanca,Recoletos,Singular buiding,6,1952,28297,4716,56614701,9435783
+Salamanca,Recoletos,Religious,8,1944,18586,2323,24359580,3044948
+Salamanca,Recoletos,Spectacles,3,1977,13189,4396,38925516,12975172
+Salamanca,Recoletos,Residential,8795,1947,1687088,192,3469738128,394513
+Salamanca,Recoletos,Health and care,2,1979,1054,527,4366049,2183025
+Salamanca,Goya,Storage-Parking,4589,1981,289589,63,221037314,48167
+Salamanca,Goya,Shopping,1538,1941,344782,224,887280744,576906
+Salamanca,Goya,Cultural,24,1959,48348,2014,59150710,2464613
+Salamanca,Goya,Hostelry,18,1947,75071,4171,161213106,8956284
+Salamanca,Goya,Industrial,26,1958,91779,3530,102343699,3936296
+Salamanca,Goya,Sports,6,1987,110565,18428,200986440,33497740
+Salamanca,Goya,Offices,586,1964,201714,344,346897534,591975
+Salamanca,Goya,Singular buiding,1,1974,1538,1538,1995801,1995801
+Salamanca,Goya,Religious,2,1954,4667,2334,6305675,3152838
+Salamanca,Goya,Spectacles,1,2003,4902,4902,9833706,9833706
+Salamanca,Goya,Residential,16318,1944,1885272,116,3148861793,192969
+Salamanca,Goya,Health and care,7,1959,49497,7071,87345238,12477891
+Salamanca,Fuente del Berro,Storage-Parking,3323,1987,180192,54,92863782,27946
+Salamanca,Fuente del Berro,Shopping,673,1956,98395,146,133003584,197628
+Salamanca,Fuente del Berro,Cultural,23,1959,38081,1656,36962290,1607056
+Salamanca,Fuente del Berro,Hostelry,3,1975,2852,951,3808190,1269397
+Salamanca,Fuente del Berro,Industrial,70,1958,35510,507,36017440,514535
+Salamanca,Fuente del Berro,Sports,6,1986,28899,4816,13035344,2172557
+Salamanca,Fuente del Berro,Offices,243,1968,87667,361,106900260,439919
+Salamanca,Fuente del Berro,Singular buiding,1,1985,72857,72857,84394685,84394685
+Salamanca,Fuente del Berro,Religious,20,1970,6073,304,6097901,304895
+Salamanca,Fuente del Berro,Residential,10556,1958,1029048,97,1421664591,134678
+Salamanca,Fuente del Berro,Health and care,9,1948,27594,3066,29081488,3231276
+Salamanca,Guindalera,Storage-Parking,8199,1988,431044,53,199890228,24380
+Salamanca,Guindalera,Shopping,1468,1960,215864,147,300615287,204779
+Salamanca,Guindalera,Cultural,33,1960,68951,2089,75120552,2276380
+Salamanca,Guindalera,Hostelry,13,2001,40585,3122,69595011,5353462
+Salamanca,Guindalera,Industrial,119,1962,35447,298,25946845,218041
+Salamanca,Guindalera,Sports,22,1975,104309,4741,115730133,5260461
+Salamanca,Guindalera,Offices,541,1971,194189,359,252907634,467482
+Salamanca,Guindalera,Singular buiding,1,1990,3224,3224,3875780,3875780
+Salamanca,Guindalera,Religious,8,1964,7794,974,9293254,1161657
+Salamanca,Guindalera,Residential,20358,1966,2176566,107,2993278235,147032
+Salamanca,Guindalera,Health and care,11,1972,29353,2668,38669927,3515448
+Salamanca,Lista,Storage-Parking,3489,1981,217846,62,178068745,51037
+Salamanca,Lista,Shopping,897,1947,148109,165,302676368,337432
+Salamanca,Lista,Cultural,9,1962,9991,1110,12015639,1335071
+Salamanca,Lista,Hostelry,73,1995,25957,356,58848008,806137
+Salamanca,Lista,Industrial,12,1975,50097,4175,52506857,4375571
+Salamanca,Lista,Sports,5,1975,9124,1825,10737569,2147514
+Salamanca,Lista,Offices,372,1965,153956,414,295082377,793232
+Salamanca,Lista,Singular buiding,4,1946,61236,15309,91091445,22772861
+Salamanca,Lista,Religious,1,1955,5275,5275,6974886,6974886
+Salamanca,Lista,Spectacles,1,1950,2199,2199,2374617,2374617
+Salamanca,Lista,Residential,11168,1950,1287229,115,2103290659,188332
+Salamanca,Lista,Health and care,11,1945,105298,9573,142230580,12930053
+Salamanca,Castellana,Storage-Parking,4345,1979,384452,88,353154014,81278
+Salamanca,Castellana,Shopping,862,1948,233103,270,735327288,853048
+Salamanca,Castellana,Cultural,9,1955,48700,5411,74272753,8252528
+Salamanca,Castellana,Hostelry,20,1977,71357,3568,181570809,9078540
+Salamanca,Castellana,Industrial,40,1974,8360,209,8525367,213134
+Salamanca,Castellana,Sports,10,1979,6987,699,19708856,1970886
+Salamanca,Castellana,Offices,780,1967,622093,798,1578782112,2024080
+Salamanca,Castellana,Singular buiding,7,1963,39057,5580,88198824,12599832
+Salamanca,Castellana,Religious,11,1949,30816,2801,43575256,3961387
+Salamanca,Castellana,Spectacles,1,2002,958,958,1670901,1670901
+Salamanca,Castellana,Residential,8537,1951,1479335,173,2971960410,348127
+Salamanca,Castellana,Health and care,9,1951,36918,4102,63267906,7029767
+Chamartin,El Viso,Storage-Parking,2756,1939,174301,63,115088491,41759
+Chamartin,El Viso,Shopping,620,1962,101483,164,236281128,381099
+Chamartin,El Viso,Cultural,76,1959,260101,3422,381165287,5015333
+Chamartin,El Viso,Hostelry,7,1676,9552,1365,20367845,2909692
+Chamartin,El Viso,Industrial,29,1968,9420,325,11592536,399743
+Chamartin,El Viso,Sports,7,1971,2851,407,5252998,750428
+Chamartin,El Viso,Offices,697,1968,457267,656,973268640,1396368
+Chamartin,El Viso,Singular buiding,19,1967,104593,5505,181230473,9538446
+Chamartin,El Viso,Religious,7,1956,14661,2094,22712419,3244631
+Chamartin,El Viso,Residential,7246,1966,1484528,205,3033880044,418697
+Chamartin,El Viso,Health and care,20,1967,41125,2056,64276064,3213803
+Chamartin,Prosperidad,Storage-Parking,7501,1982,432051,58,216275148,28833
+Chamartin,Prosperidad,Shopping,1152,1968,179682,156,270349925,234679
+Chamartin,Prosperidad,Cultural,12,1964,44710,3726,48648902,4054075
+Chamartin,Prosperidad,Hostelry,88,1994,26810,305,68713127,780831
+Chamartin,Prosperidad,Industrial,96,1968,30106,314,27475028,286198
+Chamartin,Prosperidad,Sports,11,1978,7848,713,6481057,589187
+Chamartin,Prosperidad,Offices,451,1971,232505,516,320254099,710098
+Chamartin,Prosperidad,Singular buiding,3,1989,20837,6946,21295309,7098436
+Chamartin,Prosperidad,Religious,5,1943,5379,1076,4884970,976994
+Chamartin,Prosperidad,Residential,18530,1970,1745005,94,2432747379,131287
+Chamartin,Prosperidad,Health and care,7,1979,13693,1956,19800920,2828703
+Chamartin,Ciudad Jardin,Storage-Parking,3650,1992,207727,57,101082653,27694
+Chamartin,Ciudad Jardin,Shopping,825,1966,115170,140,169125731,205001
+Chamartin,Ciudad Jardin,Cultural,14,1958,46876,3348,54819620,3915687
+Chamartin,Ciudad Jardin,Hostelry,129,1996,17082,132,25461043,197372
+Chamartin,Ciudad Jardin,Industrial,140,1969,81946,585,82491172,589223
+Chamartin,Ciudad Jardin,Sports,8,1980,10924,1366,11611074,1451384
+Chamartin,Ciudad Jardin,Offices,257,1979,161957,630,233050407,906811
+Chamartin,Ciudad Jardin,Singular buiding,3,1973,16599,5533,19558487,6519496
+Chamartin,Ciudad Jardin,Religious,3,1964,7906,2635,7425751,2475250
+Chamartin,Ciudad Jardin,Spectacles,3,1983,28606,9535,50029704,16676568
+Chamartin,Ciudad Jardin,Residential,9075,1968,896169,99,1278686616,140902
+Chamartin,Ciudad Jardin,Health and care,8,1971,14748,1844,21151066,2643883
+Chamartin,Hispanoamerica,Storage-Parking,6232,1984,307466,49,182040841,29211
+Chamartin,Hispanoamerica,Shopping,1174,1967,187456,160,344781739,293681
+Chamartin,Hispanoamerica,Cultural,27,1971,73103,2708,98776688,3658396
+Chamartin,Hispanoamerica,Hostelry,12,1973,55185,4599,117912579,9826048
+Chamartin,Hispanoamerica,Industrial,18,1974,14104,784,15577961,865442
+Chamartin,Hispanoamerica,Sports,22,1971,124464,5657,191957894,8725359
+Chamartin,Hispanoamerica,Offices,585,1970,291041,498,496633531,848946
+Chamartin,Hispanoamerica,Singular buiding,7,1982,212896,30414,318701346,45528764
+Chamartin,Hispanoamerica,Religious,10,1969,15813,1581,18588265,1858826
+Chamartin,Hispanoamerica,Residential,14028,1968,1841321,131,3001605441,213972
+Chamartin,Hispanoamerica,Health and care,21,1969,91560,4360,119851281,5707204
+Chamartin,Nueva España,Storage-Parking,4711,1985,312615,66,198550670,42146
+Chamartin,Nueva España,Shopping,625,1969,120800,193,253874992,406200
+Chamartin,Nueva España,Cultural,33,1969,144308,4373,174408081,5285093
+Chamartin,Nueva España,Hostelry,8,1739,5532,692,12660905,1582613
+Chamartin,Nueva España,Industrial,26,1972,45396,1746,48809172,1877276
+Chamartin,Nueva España,Sports,18,1983,49708,2762,49368952,2742720
+Chamartin,Nueva España,Offices,614,1971,255423,416,472579497,769673
+Chamartin,Nueva España,Singular buiding,10,1966,15399,1540,23482736,2348274
+Chamartin,Nueva España,Religious,6,1955,12907,2151,16818071,2803012
+Chamartin,Nueva España,Residential,10703,1971,1696506,159,2886824123,269721
+Chamartin,Nueva España,Health and care,15,1979,22964,1531,37777681,2518512
+Chamartin,Castilla,Storage-Parking,5826,1986,359600,62,228373917,39199
+Chamartin,Castilla,Shopping,320,1972,136461,426,171770488,536783
+Chamartin,Castilla,Cultural,11,1978,61919,5629,61045989,5549635
+Chamartin,Castilla,Hostelry,12,1974,47239,3937,60163726,5013644
+Chamartin,Castilla,Industrial,12,1982,184212,15351,65562382,5463532
+Chamartin,Castilla,Sports,9,1979,18462,2051,14056254,1561806
+Chamartin,Castilla,Offices,436,1981,658966,1511,881355266,2021457
+Chamartin,Castilla,Singular buiding,1,1970,23514,23514,23669067,23669067
+Chamartin,Castilla,Religious,4,1951,9469,2367,8344205,2086051
+Chamartin,Castilla,Residential,7962,1974,949997,119,1261074309,158387
+Chamartin,Castilla,Health and care,4,1976,4351,1088,4440090,1110022
+Tetuan,Bellas Vistas,Storage-Parking,4327,1990,211650,49,103207808,23852
+Tetuan,Bellas Vistas,Shopping,1073,1955,133483,124,183337818,170865
+Tetuan,Bellas Vistas,Cultural,12,1970,16816,1401,18253959,1521163
+Tetuan,Bellas Vistas,Hostelry,12,1947,12478,1040,19276441,1606370
+Tetuan,Bellas Vistas,Industrial,94,1963,30483,324,22854435,243132
+Tetuan,Bellas Vistas,Sports,7,1979,1952,279,1634259,233466
+Tetuan,Bellas Vistas,Offices,197,1971,49148,249,59526273,302164
+Tetuan,Bellas Vistas,Religious,8,1965,5439,680,5048202,631025
+Tetuan,Bellas Vistas,Residential,13683,1960,1108547,81,1292470737,94458
+Tetuan,Bellas Vistas,Health and care,10,1975,29874,2987,34470740,3447074
+Tetuan,Cuatro Caminos,Storage-Parking,7843,1978,583704,74,321566315,41000
+Tetuan,Cuatro Caminos,Shopping,1546,1962,456109,295,1127535079,729324
+Tetuan,Cuatro Caminos,Cultural,23,1964,42665,1855,44198718,1921683
+Tetuan,Cuatro Caminos,Hostelry,566,1984,77202,136,146135842,258191
+Tetuan,Cuatro Caminos,Industrial,138,1964,63109,457,55014290,398654
+Tetuan,Cuatro Caminos,Sports,15,1967,6196,413,8444491,562966
+Tetuan,Cuatro Caminos,Offices,1248,1976,945970,758,1946050651,1559335
+Tetuan,Cuatro Caminos,Singular buiding,2,1968,62679,31340,101862276,50931138
+Tetuan,Cuatro Caminos,Religious,8,1964,15180,1898,19897467,2487183
+Tetuan,Cuatro Caminos,Spectacles,5,1966,7307,1461,10248916,2049783
+Tetuan,Cuatro Caminos,Residential,18202,1962,1884081,104,2623195335,144116
+Tetuan,Cuatro Caminos,Health and care,12,1951,5642,470,7638206,636517
+Tetuan,Castillejos,Storage-Parking,6112,1978,407452,67,199841230,32697
+Tetuan,Castillejos,Shopping,837,1969,144035,172,244161332,291710
+Tetuan,Castillejos,Cultural,9,1963,21710,2412,21739720,2415524
+Tetuan,Castillejos,Hostelry,1009,1973,111624,111,186648780,184984
+Tetuan,Castillejos,Industrial,91,1966,23124,254,17605382,193466
+Tetuan,Castillejos,Sports,5,1956,7381,1476,9311697,1862339
+Tetuan,Castillejos,Offices,796,1974,430789,541,733676040,921704
+Tetuan,Castillejos,Singular buiding,5,1982,116312,23262,197755539,39551108
+Tetuan,Castillejos,Religious,2,1980,3573,1786,4121705,2060853
+Tetuan,Castillejos,Residential,11784,1969,1313365,111,1830595915,155346
+Tetuan,Castillejos,Health and care,4,1970,779,195,1139705,284926
+Tetuan,Almenara,Storage-Parking,6398,1993,243041,38,90306124,14115
+Tetuan,Almenara,Shopping,934,1981,142683,153,183724554,196707
+Tetuan,Almenara,Cultural,10,1971,57093,5709,46447332,4644733
+Tetuan,Almenara,Hostelry,2,1990,3311,1656,2994553,1497277
+Tetuan,Almenara,Industrial,65,1973,80471,1238,90572360,1393421
+Tetuan,Almenara,Sports,3,1964,9418,3139,9654686,3218229
+Tetuan,Almenara,Offices,234,1978,96797,414,189122206,808215
+Tetuan,Almenara,Singular buiding,4,1996,16330,4082,17703839,4425960
+Tetuan,Almenara,Religious,9,1974,3621,402,3310374,367819
+Tetuan,Almenara,Residential,10446,1985,1012075,97,1177145220,112689
+Tetuan,Almenara,Health and care,14,1971,23998,1714,27302633,1950188
+Tetuan,Valdeacederas,Storage-Parking,6438,1990,243219,38,89906906,13965
+Tetuan,Valdeacederas,Shopping,869,1972,104093,120,106790883,122889
+Tetuan,Valdeacederas,Cultural,23,1974,23087,1004,19924880,866299
+Tetuan,Valdeacederas,Hostelry,7,1965,4319,617,5308451,758350
+Tetuan,Valdeacederas,Industrial,130,1968,24829,191,15090751,116083
+Tetuan,Valdeacederas,Sports,9,1981,19548,2172,13351616,1483513
+Tetuan,Valdeacederas,Offices,117,1974,13146,112,12912987,110367
+Tetuan,Valdeacederas,Singular buiding,2,1972,3822,1911,3433396,1716698
+Tetuan,Valdeacederas,Religious,2,1970,1295,648,1188780,594390
+Tetuan,Valdeacederas,Spectacles,1,1993,84,84,96629,96629
+Tetuan,Valdeacederas,Residential,12484,1980,936402,75,937997839,75136
+Tetuan,Valdeacederas,Health and care,7,1985,9006,1287,8199670,1171381
+Tetuan,Berruguete,Storage-Parking,4635,1996,208154,45,87157122,18804
+Tetuan,Berruguete,Shopping,846,1962,104040,123,128166929,151498
+Tetuan,Berruguete,Cultural,8,1951,20659,2582,14661066,1832633
+Tetuan,Berruguete,Hostelry,2,1948,298,149,350134,175067
+Tetuan,Berruguete,Industrial,117,1962,28302,242,20174907,172435
+Tetuan,Berruguete,Sports,3,1971,5134,1711,6310197,2103399
+Tetuan,Berruguete,Offices,94,1971,15971,170,16241856,172786
+Tetuan,Berruguete,Religious,6,1972,3412,569,2721504,453584
+Tetuan,Berruguete,Residential,11992,1971,921336,77,1030250994,85912
+Tetuan,Berruguete,Health and care,9,1980,10330,1148,10819268,1202141
+Chamberi,Gaztambide,Storage-Parking,5469,1980,264990,48,131266362,24002
+Chamberi,Gaztambide,Shopping,1345,1956,179602,134,301669152,224289
+Chamberi,Gaztambide,Cultural,13,1956,34545,2657,34646959,2665151
+Chamberi,Gaztambide,Hostelry,4,1969,7860,1965,15082955,3770739
+Chamberi,Gaztambide,Industrial,28,1953,9702,346,7126496,254518
+Chamberi,Gaztambide,Sports,3,1952,1271,424,1810888,603629
+Chamberi,Gaztambide,Offices,271,1968,48170,178,72262629,266652
+Chamberi,Gaztambide,Singular buiding,4,1947,1209,302,1059316,264829
+Chamberi,Gaztambide,Religious,3,1945,9995,3332,8542523,2847508
+Chamberi,Gaztambide,Spectacles,2,1980,1748,874,3133448,1566724
+Chamberi,Gaztambide,Residential,13191,1956,1472750,112,2016101698,152839
+Chamberi,Gaztambide,Health and care,20,1966,49017,2451,52701098,2635055
+Chamberi,Arapiles,Storage-Parking,2432,1978,202981,83,98503281,40503
+Chamberi,Arapiles,Shopping,1000,1949,151626,152,234521627,234522
+Chamberi,Arapiles,Cultural,32,1951,47736,1492,50096095,1565503
+Chamberi,Arapiles,Hostelry,16,1962,22830,1427,41033118,2564570
+Chamberi,Arapiles,Industrial,27,1953,89011,3297,75246634,2786912
+Chamberi,Arapiles,Sports,6,1952,3054,509,2561711,426952
+Chamberi,Arapiles,Offices,369,1965,100642,273,170707550,462622
+Chamberi,Arapiles,Singular buiding,3,1957,3583,1194,4648938,1549646
+Chamberi,Arapiles,Religious,5,1975,2435,487,2632105,526421
+Chamberi,Arapiles,Spectacles,5,1976,40925,8185,61274985,12254997
+Chamberi,Arapiles,Residential,13530,1951,1399757,103,1930909245,142713
+Chamberi,Arapiles,Health and care,8,1952,17469,2184,16782659,2097832
+Chamberi,Trafalgar,Storage-Parking,3684,1983,199754,54,97241338,26396
+Chamberi,Trafalgar,Shopping,1208,1948,201830,167,310167914,256762
+Chamberi,Trafalgar,Cultural,16,1962,37736,2358,42930069,2683129
+Chamberi,Trafalgar,Hostelry,10,1979,26387,2639,51013768,5101377
+Chamberi,Trafalgar,Industrial,32,1955,19103,597,14833877,463559
+Chamberi,Trafalgar,Sports,3,1956,1483,494,1292071,430690
+Chamberi,Trafalgar,Offices,617,1963,250674,406,395486611,640983
+Chamberi,Trafalgar,Singular buiding,4,1971,27699,6925,37548069,9387017
+Chamberi,Trafalgar,Religious,7,1960,12663,1809,12588031,1798290
+Chamberi,Trafalgar,Spectacles,6,1960,18299,3050,33546975,5591162
+Chamberi,Trafalgar,Residential,13826,1951,1410964,102,1960090013,141768
+Chamberi,Trafalgar,Health and care,13,1958,25222,1940,29918869,2301451
+Chamberi,Almagro,Storage-Parking,5232,1979,333989,64,210209061,40178
+Chamberi,Almagro,Shopping,731,1953,147162,201,264379793,361669
+Chamberi,Almagro,Cultural,41,1966,113249,2762,142837404,3483839
+Chamberi,Almagro,Hostelry,127,1987,74581,587,172384930,1357362
+Chamberi,Almagro,Industrial,17,1961,14810,871,14294114,840830
+Chamberi,Almagro,Sports,6,1983,18984,3164,20915789,3485965
+Chamberi,Almagro,Offices,916,1960,621000,678,1348631649,1472305
+Chamberi,Almagro,Singular buiding,28,1963,113468,4052,169496935,6053462
+Chamberi,Almagro,Religious,10,1950,51039,5104,50126049,5012605
+Chamberi,Almagro,Residential,9157,1957,1618229,177,2650707320,289473
+Chamberi,Almagro,Health and care,18,1953,53536,2974,65278026,3626557
+Chamberi,Rios Rosas,Storage-Parking,5033,1986,294499,59,153279187,30455
+Chamberi,Rios Rosas,Shopping,1035,1956,140958,136,206545029,199560
+Chamberi,Rios Rosas,Cultural,13,1957,85684,6591,98713389,7593338
+Chamberi,Rios Rosas,Hostelry,5,1977,40125,8025,80901304,16180261
+Chamberi,Rios Rosas,Industrial,25,1964,99444,3978,49748162,1989926
+Chamberi,Rios Rosas,Sports,3,1972,2787,929,4251124,1417041
+Chamberi,Rios Rosas,Offices,629,1968,277188,441,457642128,727571
+Chamberi,Rios Rosas,Singular buiding,13,1972,233873,17990,347009628,26693048
+Chamberi,Rios Rosas,Religious,3,1967,10658,3553,14128508,4709503
+Chamberi,Rios Rosas,Spectacles,1,1965,848,848,1409681,1409681
+Chamberi,Rios Rosas,Residential,14488,1956,1559229,108,2274449715,156989
+Chamberi,Rios Rosas,Health and care,17,1950,24839,1461,28427412,1672201
+Chamberi,Vallehermoso,Storage-Parking,2678,1982,252107,94,118648763,44305
+Chamberi,Vallehermoso,Shopping,596,1960,100775,169,181173848,303983
+Chamberi,Vallehermoso,Cultural,47,1965,176754,3761,227073252,4831346
+Chamberi,Vallehermoso,Hostelry,1,1970,1760,1760,2989674,2989674
+Chamberi,Vallehermoso,Industrial,16,1962,2317,145,1799186,112449
+Chamberi,Vallehermoso,Sports,7,1992,106698,15243,133378902,19054129
+Chamberi,Vallehermoso,Offices,353,1966,82299,233,144714977,409957
+Chamberi,Vallehermoso,Singular buiding,6,1962,251900,41983,341540692,56923449
+Chamberi,Vallehermoso,Religious,25,1960,48056,1922,49505177,1980207
+Chamberi,Vallehermoso,Residential,9931,1963,1270790,128,2124662091,213942
+Chamberi,Vallehermoso,Health and care,14,1965,63473,4534,106217265,7586948
+Fuencarral-El Pardo,El Pardo,Storage-Parking,58,1988,2851,49,495308,8540
+Fuencarral-El Pardo,El Pardo,Shopping,74,1956,8030,109,8584839,116011
+Fuencarral-El Pardo,El Pardo,Cultural,4,1950,4523,1131,3721541,930385
+Fuencarral-El Pardo,El Pardo,Hostelry,8,1953,3690,461,3638009,454751
+Fuencarral-El Pardo,El Pardo,Industrial,9,1953,6808,756,4344965,482774
+Fuencarral-El Pardo,El Pardo,Sports,5,1972,134294,26859,49230130,9846026
+Fuencarral-El Pardo,El Pardo,Offices,4,1954,5866,1466,5656748,1414187
+Fuencarral-El Pardo,El Pardo,Singular buiding,10,1963,253459,25346,243212594,24321259
+Fuencarral-El Pardo,El Pardo,Religious,3,1955,22584,7528,2977606,992535
+Fuencarral-El Pardo,El Pardo,Residential,1463,1960,155919,107,158974485,108663
+Fuencarral-El Pardo,El Pardo,Health and care,2,1972,131,66,116593,58296
+Fuencarral-El Pardo,Fuentelarreina,Storage-Parking,1094,1975,37158,34,11988075,10958
+Fuencarral-El Pardo,Fuentelarreina,Shopping,10,1977,2346,235,3532299,353230
+Fuencarral-El Pardo,Fuentelarreina,Cultural,1,1991,24894,24894,31283603,31283603
+Fuencarral-El Pardo,Fuentelarreina,Hostelry,2,1954,6961,3480,9409767,4704884
+Fuencarral-El Pardo,Fuentelarreina,Industrial,6,1979,7650,1275,800536,133423
+Fuencarral-El Pardo,Fuentelarreina,Sports,4,1976,607159,151790,26524316,6631079
+Fuencarral-El Pardo,Fuentelarreina,Offices,1,1993,3582,3582,3157572,3157572
+Fuencarral-El Pardo,Fuentelarreina,Singular buiding,1,1996,6691,6691,7991778,7991778
+Fuencarral-El Pardo,Fuentelarreina,Residential,1317,1973,353889,269,429409817,326051
+Fuencarral-El Pardo,Peñagrande,Storage-Parking,8282,1992,362827,44,115667509,13966
+Fuencarral-El Pardo,Peñagrande,Shopping,842,1977,93337,111,97364356,115635
+Fuencarral-El Pardo,Peñagrande,Cultural,26,1975,104779,4030,80487654,3095679
+Fuencarral-El Pardo,Peñagrande,Hostelry,3,1959,994,331,1202145,400715
+Fuencarral-El Pardo,Peñagrande,Industrial,45,1975,10196,227,6127525,136167
+Fuencarral-El Pardo,Peñagrande,Sports,37,1990,59068,1596,41380251,1118385
+Fuencarral-El Pardo,Peñagrande,Offices,140,1956,72901,521,88414024,631529
+Fuencarral-El Pardo,Peñagrande,Religious,16,1978,8294,518,8574240,535890
+Fuencarral-El Pardo,Peñagrande,Residential,19695,1981,2366382,120,2728322009,138529
+Fuencarral-El Pardo,Peñagrande,Health and care,27,1988,71656,2654,89459892,3313329
+Fuencarral-El Pardo,Pilar,Storage-Parking,3523,1979,199528,57,57636590,16360
+Fuencarral-El Pardo,Pilar,Shopping,2056,1970,391801,191,578417473,281331
+Fuencarral-El Pardo,Pilar,Cultural,51,1969,90687,1778,72090781,1413545
+Fuencarral-El Pardo,Pilar,Hostelry,4,1973,1358,340,1434539,358635
+Fuencarral-El Pardo,Pilar,Industrial,66,1970,14144,214,13261781,200936
+Fuencarral-El Pardo,Pilar,Sports,9,1986,28156,3128,17017759,1890862
+Fuencarral-El Pardo,Pilar,Offices,123,1969,27865,227,34811319,283019
+Fuencarral-El Pardo,Pilar,Singular buiding,1,1969,972,972,817296,817296
+Fuencarral-El Pardo,Pilar,Religious,9,1967,3320,369,2722150,302461
+Fuencarral-El Pardo,Pilar,Spectacles,1,1988,22325,22325,21692953,21692953
+Fuencarral-El Pardo,Pilar,Residential,21448,1969,1705842,80,1810601028,84418
+Fuencarral-El Pardo,Pilar,Health and care,3,1973,1534,511,1356196,452065
+Fuencarral-El Pardo,La Paz,Storage-Parking,8170,1983,295334,36,114386626,14001
+Fuencarral-El Pardo,La Paz,Shopping,580,1978,98744,170,89056348,153545
+Fuencarral-El Pardo,La Paz,Cultural,16,1980,95491,5968,91722899,5732681
+Fuencarral-El Pardo,La Paz,Hostelry,3,1999,167556,55852,346210876,115403625
+Fuencarral-El Pardo,La Paz,Industrial,27,1979,7694,285,5726376,212088
+Fuencarral-El Pardo,La Paz,Sports,11,1987,33303,3028,22479886,2043626
+Fuencarral-El Pardo,La Paz,Offices,110,1989,439731,3998,880683572,8006214
+Fuencarral-El Pardo,La Paz,Singular buiding,1,1981,2896,2896,2539654,2539654
+Fuencarral-El Pardo,La Paz,Religious,3,1981,2811,937,2589044,863015
+Fuencarral-El Pardo,La Paz,Residential,13538,1980,1727834,128,1988627910,146892
+Fuencarral-El Pardo,La Paz,Health and care,30,1985,322790,10760,376952190,12565073
+Fuencarral-El Pardo,Valverde,Storage-Parking,19962,2004,754326,38,272313069,13642
+Fuencarral-El Pardo,Valverde,Shopping,1306,1987,257832,197,275369658,210850
+Fuencarral-El Pardo,Valverde,Cultural,34,1988,145771,4287,138446385,4071952
+Fuencarral-El Pardo,Valverde,Hostelry,142,1976,77856,548,86960455,612398
+Fuencarral-El Pardo,Valverde,Industrial,408,1985,1320032,3235,442943788,1085647
+Fuencarral-El Pardo,Valverde,Sports,25,1992,112662,4506,75680946,3027238
+Fuencarral-El Pardo,Valverde,Offices,559,1993,1743565,3119,2041243590,3651599
+Fuencarral-El Pardo,Valverde,Singular buiding,2,1976,14579,7290,22335395,11167698
+Fuencarral-El Pardo,Valverde,Religious,10,1957,10606,1061,8370295,837029
+Fuencarral-El Pardo,Valverde,Spectacles,3,1981,39901,13300,37621855,12540618
+Fuencarral-El Pardo,Valverde,Residential,26871,1990,3119986,116,3380510714,125805
+Fuencarral-El Pardo,Valverde,Health and care,25,1983,247826,9913,286715409,11468616
+Fuencarral-El Pardo,Mirasierra,Storage-Parking,7268,1997,273485,38,98501391,13553
+Fuencarral-El Pardo,Mirasierra,Shopping,216,1995,63221,293,67463384,312330
+Fuencarral-El Pardo,Mirasierra,Cultural,15,1989,169080,11272,145787558,9719171
+Fuencarral-El Pardo,Mirasierra,Hostelry,5,1996,8065,1613,9091702,1818340
+Fuencarral-El Pardo,Mirasierra,Industrial,23,1978,27832,1210,18266054,794176
+Fuencarral-El Pardo,Mirasierra,Sports,25,1994,86895,3476,75254091,3010164
+Fuencarral-El Pardo,Mirasierra,Offices,65,1990,68888,1060,83754256,1288527
+Fuencarral-El Pardo,Mirasierra,Singular buiding,1,2011,7587,7587,8709773,8709773
+Fuencarral-El Pardo,Mirasierra,Religious,2,2004,4789,2394,7320325,3660163
+Fuencarral-El Pardo,Mirasierra,Residential,12431,1995,2317268,186,2668231454,214643
+Fuencarral-El Pardo,Mirasierra,Health and care,16,1994,108566,6785,137755597,8609725
+Fuencarral-El Pardo,El Goloso,Storage-Parking,8195,2007,245276,30,107145751,13075
+Fuencarral-El Pardo,El Goloso,Shopping,269,2007,80932,301,82731826,307553
+Fuencarral-El Pardo,El Goloso,Cultural,11,1988,743845,67622,653600616,59418238
+Fuencarral-El Pardo,El Goloso,Hostelry,2,1972,10576,5288,7534085,3767043
+Fuencarral-El Pardo,El Goloso,Industrial,5,1997,48819,9764,26620715,5324143
+Fuencarral-El Pardo,El Goloso,Sports,3,1996,6818,2273,3144504,1048168
+Fuencarral-El Pardo,El Goloso,Offices,5,2008,16865,3373,19259656,3851931
+Fuencarral-El Pardo,El Goloso,Singular buiding,2,1948,215425,107712,168888515,84444257
+Fuencarral-El Pardo,El Goloso,Religious,5,1986,74927,14985,23599241,4719848
+Fuencarral-El Pardo,El Goloso,Residential,6954,2007,1032945,149,1108934791,159467
+Fuencarral-El Pardo,El Goloso,Health and care,4,1981,114190,28548,122320239,30580060
+Moncloa-Aravaca,Casa de Campo,Storage-Parking,2055,1994,84120,41,43169170,21007
+Moncloa-Aravaca,Casa de Campo,Shopping,398,1961,114334,287,157337436,395320
+Moncloa-Aravaca,Casa de Campo,Cultural,13,1947,43801,3369,36916911,2839762
+Moncloa-Aravaca,Casa de Campo,Hostelry,42,1877,107898,2569,113084755,2692494
+Moncloa-Aravaca,Casa de Campo,Industrial,41,1964,85742,2091,99345907,2423071
+Moncloa-Aravaca,Casa de Campo,Sports,7,1977,34526,4932,22920861,3274409
+Moncloa-Aravaca,Casa de Campo,Offices,50,1961,34346,687,46440106,928802
+Moncloa-Aravaca,Casa de Campo,Singular buiding,2,1972,20272,10136,16322272,8161136
+Moncloa-Aravaca,Casa de Campo,Religious,3,1852,1969,656,1650776,550259
+Moncloa-Aravaca,Casa de Campo,Spectacles,5,1975,443698,88740,54702979,10940596
+Moncloa-Aravaca,Casa de Campo,Residential,6350,1969,630022,99,699787529,110203
+Moncloa-Aravaca,Casa de Campo,Health and care,13,1978,48926,3764,53830874,4140837
+Moncloa-Aravaca,Arguelles,Storage-Parking,2537,1978,320253,126,254035381,100132
+Moncloa-Aravaca,Arguelles,Shopping,1013,1948,202168,200,457581304,451709
+Moncloa-Aravaca,Arguelles,Cultural,18,1952,47722,2651,62308117,3461562
+Moncloa-Aravaca,Arguelles,Hostelry,208,1997,64365,309,138656456,666618
+Moncloa-Aravaca,Arguelles,Industrial,15,1960,47331,3155,81728908,5448594
+Moncloa-Aravaca,Arguelles,Sports,4,1984,17420,4355,26118687,6529672
+Moncloa-Aravaca,Arguelles,Offices,354,1963,192895,545,388446682,1097307
+Moncloa-Aravaca,Arguelles,Singular buiding,6,1958,102781,17130,140578693,23429782
+Moncloa-Aravaca,Arguelles,Religious,14,1953,26226,1873,38367373,2740527
+Moncloa-Aravaca,Arguelles,Residential,12812,1949,1655993,129,3119556756,243487
+Moncloa-Aravaca,Arguelles,Health and care,11,1957,49684,4517,70376823,6397893
+Moncloa-Aravaca,Ciudad Universitaria,Storage-Parking,4571,1984,238608,52,123021706,26914
+Moncloa-Aravaca,Ciudad Universitaria,Shopping,330,1967,54093,164,72656886,220172
+Moncloa-Aravaca,Ciudad Universitaria,Cultural,94,1968,1534111,16320,1306430820,13898200
+Moncloa-Aravaca,Ciudad Universitaria,Hostelry,5,1963,3085,617,4594296,918859
+Moncloa-Aravaca,Ciudad Universitaria,Industrial,66,1966,618793,9376,435236416,6594491
+Moncloa-Aravaca,Ciudad Universitaria,Sports,32,1982,4091868,127871,387518013,12109938
+Moncloa-Aravaca,Ciudad Universitaria,Offices,126,1975,184463,1464,208094628,1651545
+Moncloa-Aravaca,Ciudad Universitaria,Singular buiding,20,1975,281657,14083,230529778,11526489
+Moncloa-Aravaca,Ciudad Universitaria,Religious,9,1950,11086,1232,11416240,1268471
+Moncloa-Aravaca,Ciudad Universitaria,Spectacles,1,1957,361,361,617498,617498
+Moncloa-Aravaca,Ciudad Universitaria,Residential,7396,1973,1581517,214,2037826495,275531
+Moncloa-Aravaca,Ciudad Universitaria,Health and care,88,1987,268352,3049,248623261,2825264
+Moncloa-Aravaca,Valdezarza,Storage-Parking,3728,1991,192273,52,94603431,25376
+Moncloa-Aravaca,Valdezarza,Shopping,766,1961,54570,71,59204032,77290
+Moncloa-Aravaca,Valdezarza,Cultural,9,1968,75003,8334,60822532,6758059
+Moncloa-Aravaca,Valdezarza,Hostelry,3,1961,314,105,328799,109600
+Moncloa-Aravaca,Valdezarza,Industrial,32,1958,3022,94,2267321,70854
+Moncloa-Aravaca,Valdezarza,Sports,7,1986,10918,1560,8161364,1165909
+Moncloa-Aravaca,Valdezarza,Offices,9,1976,1822,202,2311744,256860
+Moncloa-Aravaca,Valdezarza,Singular buiding,2,1960,20671,10336,13678918,6839459
+Moncloa-Aravaca,Valdezarza,Religious,11,1967,7121,647,7347874,667989
+Moncloa-Aravaca,Valdezarza,Residential,14521,1969,1281883,88,1455200386,100214
+Moncloa-Aravaca,Valdezarza,Health and care,16,1978,15925,995,20170297,1260644
+Moncloa-Aravaca,Valdemarin,Storage-Parking,2192,2004,98825,45,36775001,16777
+Moncloa-Aravaca,Valdemarin,Shopping,19,2003,5438,286,8489432,446812
+Moncloa-Aravaca,Valdemarin,Cultural,13,1988,105394,8107,90167260,6935943
+Moncloa-Aravaca,Valdemarin,Hostelry,77,1993,27916,363,37314663,484606
+Moncloa-Aravaca,Valdemarin,Industrial,11,1984,5885,535,4455527,405048
+Moncloa-Aravaca,Valdemarin,Sports,14,2005,24519,1751,14225658,1016118
+Moncloa-Aravaca,Valdemarin,Offices,48,2002,78132,1628,105746400,2203050
+Moncloa-Aravaca,Valdemarin,Singular buiding,2,1979,7567,3784,7712639,3856319
+Moncloa-Aravaca,Valdemarin,Religious,2,1982,6134,3067,1477270,738635
+Moncloa-Aravaca,Valdemarin,Residential,2554,2002,706349,277,857885270,335899
+Moncloa-Aravaca,Valdemarin,Health and care,8,1994,59103,7388,55654993,6956874
+Moncloa-Aravaca,El Plantio,Storage-Parking,1528,2007,75403,49,39684650,25972
+Moncloa-Aravaca,El Plantio,Shopping,48,1989,69157,1441,69078352,1439132
+Moncloa-Aravaca,El Plantio,Cultural,7,1983,10430,1490,9189686,1312812
+Moncloa-Aravaca,El Plantio,Hostelry,12,1968,13070,1089,14536723,1211394
+Moncloa-Aravaca,El Plantio,Industrial,24,1978,22122,922,18690829,778785
+Moncloa-Aravaca,El Plantio,Sports,6,1977,7543,1257,5559814,926636
+Moncloa-Aravaca,El Plantio,Offices,220,1998,266976,1214,319587892,1452672
+Moncloa-Aravaca,El Plantio,Religious,1,1950,296,296,708972,708972
+Moncloa-Aravaca,El Plantio,Spectacles,7,283,633,90,560836,80119
+Moncloa-Aravaca,El Plantio,Residential,1158,1987,473057,409,578563806,499623
+Moncloa-Aravaca,El Plantio,Health and care,10,1974,7649,765,9184918,918492
+Moncloa-Aravaca,Aravaca,Storage-Parking,6513,2000,236860,36,79194077,12159
+Moncloa-Aravaca,Aravaca,Shopping,376,1984,45027,120,59637669,158611
+Moncloa-Aravaca,Aravaca,Cultural,14,1984,81030,5788,82751007,5910786
+Moncloa-Aravaca,Aravaca,Hostelry,4,1973,3375,844,4594504,1148626
+Moncloa-Aravaca,Aravaca,Industrial,29,1975,3106,107,3228913,111342
+Moncloa-Aravaca,Aravaca,Sports,64,1988,41880,654,38869314,607333
+Moncloa-Aravaca,Aravaca,Offices,76,1988,73465,967,75087664,987996
+Moncloa-Aravaca,Aravaca,Singular buiding,4,1978,3061,765,2610510,652627
+Moncloa-Aravaca,Aravaca,Religious,8,1974,18255,2282,19527167,2440896
+Moncloa-Aravaca,Aravaca,Spectacles,1,1960,1573,1573,1749890,1749890
+Moncloa-Aravaca,Aravaca,Residential,10300,1991,2153647,209,2345764054,227744
+Moncloa-Aravaca,Aravaca,Health and care,17,1991,63628,3743,76468233,4498131
+Latina,Los Carmenes,Storage-Parking,2054,1994,103891,51,33776409,16444
+Latina,Los Carmenes,Shopping,388,1976,54507,140,46216858,119116
+Latina,Los Carmenes,Cultural,3,1981,13190,4397,10462592,3487531
+Latina,Los Carmenes,Hostelry,5,1568,520,104,431991,86398
+Latina,Los Carmenes,Industrial,22,1967,34041,1547,18918587,859936
+Latina,Los Carmenes,Sports,13,1992,87305,6716,52499829,4038448
+Latina,Los Carmenes,Offices,31,1986,6870,222,6697004,216032
+Latina,Los Carmenes,Singular buiding,2,1975,7829,3914,6586835,3293418
+Latina,Los Carmenes,Residential,7423,1977,668325,90,575284765,77500
+Latina,Los Carmenes,Health and care,6,1993,9426,1571,9520294,1586716
+Latina,Puerta del Angel,Storage-Parking,3415,1990,211806,62,76080891,22278
+Latina,Puerta del Angel,Shopping,1574,1959,165519,105,168241464,106888
+Latina,Puerta del Angel,Cultural,31,1959,50765,1638,39821786,1284574
+Latina,Puerta del Angel,Hostelry,7,1688,3104,443,3850160,550023
+Latina,Puerta del Angel,Industrial,71,1963,18172,256,9708923,136745
+Latina,Puerta del Angel,Sports,5,1983,1793,359,988763,197753
+Latina,Puerta del Angel,Offices,146,1967,44105,302,38353285,262694
+Latina,Puerta del Angel,Singular buiding,1,1970,3548,3548,3346899,3346899
+Latina,Puerta del Angel,Religious,4,1968,1225,306,886085,221521
+Latina,Puerta del Angel,Spectacles,1,1950,246,246,257181,257181
+Latina,Puerta del Angel,Residential,20077,1964,1674898,83,1570864374,78242
+Latina,Puerta del Angel,Health and care,20,1962,12278,614,11793479,589674
+Latina,Lucero,Storage-Parking,4162,1994,191899,46,57961579,13926
+Latina,Lucero,Shopping,951,1974,100632,106,89314739,93917
+Latina,Lucero,Cultural,22,1972,50471,2294,37303793,1695627
+Latina,Lucero,Hostelry,15,1963,1621,108,1386206,92414
+Latina,Lucero,Industrial,41,1970,8677,212,4158174,101419
+Latina,Lucero,Sports,10,1981,12761,1276,7044536,704454
+Latina,Lucero,Offices,72,1980,13112,182,11392741,158233
+Latina,Lucero,Singular buiding,1,2007,12559,12559,7566874,7566874
+Latina,Lucero,Religious,5,1977,2908,582,2905517,581103
+Latina,Lucero,Residential,16314,1972,1355027,83,1239209488,75960
+Latina,Lucero,Health and care,11,1985,21173,1925,20798241,1890749
+Latina,Aluche,Storage-Parking,9660,1990,346988,36,98057908,10151
+Latina,Aluche,Shopping,2008,1970,198520,99,155790592,77585
+Latina,Aluche,Cultural,43,1974,122130,2840,89391013,2078861
+Latina,Aluche,Hostelry,34,1972,6454,190,5002503,147132
+Latina,Aluche,Industrial,115,1972,34810,303,20534689,178563
+Latina,Aluche,Sports,31,1977,45565,1470,24390687,786796
+Latina,Aluche,Offices,146,1973,20278,139,15449634,105819
+Latina,Aluche,Singular buiding,3,1975,8135,2712,8074435,2691478
+Latina,Aluche,Religious,14,1975,6268,448,5245573,374684
+Latina,Aluche,Residential,30197,1971,2551026,84,2247142892,74416
+Latina,Aluche,Health and care,58,1972,321385,5541,200248319,3452557
+Latina,Campamento,Storage-Parking,1826,1992,63072,35,21254338,11640
+Latina,Campamento,Shopping,481,1971,33602,70,26736280,55585
+Latina,Campamento,Cultural,8,1973,15525,1941,10377231,1297154
+Latina,Campamento,Hostelry,12,1965,1342,112,816393,68033
+Latina,Campamento,Industrial,75,1969,13144,175,133502298,1780031
+Latina,Campamento,Sports,2,1980,7595,3798,2207030,1103515
+Latina,Campamento,Offices,43,1973,8475,197,7056032,164094
+Latina,Campamento,Singular buiding,10,1943,112594,11259,104762343,10476234
+Latina,Campamento,Religious,4,1974,222,56,160556,40139
+Latina,Campamento,Residential,8491,1974,758207,89,641436339,75543
+Latina,Campamento,Health and care,6,1982,5320,887,4100043,683341
+Latina,Cuatro Vientos,Storage-Parking,2221,2007,54388,24,16637447,7491
+Latina,Cuatro Vientos,Shopping,37,2009,37616,1017,19431013,525163
+Latina,Cuatro Vientos,Cultural,1,2008,18490,18490,15797251,15797251
+Latina,Cuatro Vientos,Hostelry,2,980,38332,19166,18959898,9479949
+Latina,Cuatro Vientos,Industrial,23,1985,113594,4939,37655520,1637197
+Latina,Cuatro Vientos,Sports,2,1980,246562,123281,11866617,5933309
+Latina,Cuatro Vientos,Offices,421,2008,40473,96,47454551,112719
+Latina,Cuatro Vientos,Singular buiding,2,1975,445172,222586,131950421,65975211
+Latina,Cuatro Vientos,Residential,2319,2007,283180,122,259844723,112050
+Latina,Cuatro Vientos,Health and care,4,2001,47842,11960,33528365,8382091
+Latina,Las Aguilas,Storage-Parking,3048,1991,163554,54,48746771,15993
+Latina,Las Aguilas,Shopping,1169,1974,192452,165,134855996,115360
+Latina,Las Aguilas,Cultural,31,1975,91097,2939,53761562,1734244
+Latina,Las Aguilas,Hostelry,18,1968,1190,66,930177,51676
+Latina,Las Aguilas,Industrial,54,1969,5991,111,2966238,54930
+Latina,Las Aguilas,Sports,20,1980,151561,7578,74847261,3742363
+Latina,Las Aguilas,Offices,78,1994,13450,172,11515986,147641
+Latina,Las Aguilas,Singular buiding,4,1981,32068,8017,19791004,4947751
+Latina,Las Aguilas,Religious,7,1989,11791,1684,9126413,1303773
+Latina,Las Aguilas,Residential,23151,1973,1934032,84,1427427741,61657
+Latina,Las Aguilas,Health and care,20,1979,35215,1761,30508963,1525448
+Carabanchel,Comillas,Storage-Parking,1604,1987,128022,80,31168883,19432
+Carabanchel,Comillas,Shopping,918,1965,100708,110,85630700,93280
+Carabanchel,Comillas,Cultural,6,1951,14824,2471,7273963,1212327
+Carabanchel,Comillas,Hostelry,3,1974,19840,6613,19439779,6479927
+Carabanchel,Comillas,Industrial,109,1964,23487,215,11430497,104867
+Carabanchel,Comillas,Sports,5,1984,10367,2073,3817472,763494
+Carabanchel,Comillas,Offices,177,1970,14461,82,12050367,68081
+Carabanchel,Comillas,Religious,4,1969,5938,1484,3176461,794115
+Carabanchel,Comillas,Residential,10972,1966,908843,83,706308192,64374
+Carabanchel,Opañel,Storage-Parking,4848,1991,234462,48,63386198,13075
+Carabanchel,Opañel,Shopping,1084,1968,127595,118,99708934,91982
+Carabanchel,Opañel,Cultural,23,1973,44572,1938,27710558,1204807
+Carabanchel,Opañel,Hostelry,2,1961,330,165,257694,128847
+Carabanchel,Opañel,Industrial,206,1969,59800,290,32405592,157309
+Carabanchel,Opañel,Sports,4,1998,19387,4847,11585970,2896492
+Carabanchel,Opañel,Offices,173,1979,40144,232,31418644,181611
+Carabanchel,Opañel,Singular buiding,1,1973,412,412,258702,258702
+Carabanchel,Opañel,Religious,6,1980,44800,7467,8295663,1382610
+Carabanchel,Opañel,Spectacles,1,1965,2425,2425,2019809,2019809
+Carabanchel,Opañel,Residential,15084,1972,1284992,85,974821079,64626
+Carabanchel,Opañel,Health and care,6,1991,6610,1102,5460891,910149
+Carabanchel,San Isidro,Storage-Parking,6164,1994,263493,43,57839153,9383
+Carabanchel,San Isidro,Shopping,999,1969,112519,113,86469276,86556
+Carabanchel,San Isidro,Cultural,23,1968,37745,1641,23786591,1034200
+Carabanchel,San Isidro,Hostelry,2,1999,486,243,383685,191842
+Carabanchel,San Isidro,Industrial,345,1973,130510,378,60561164,175540
+Carabanchel,San Isidro,Sports,9,1981,16373,1819,7468350,829817
+Carabanchel,San Isidro,Offices,129,1986,36987,287,26205193,203141
+Carabanchel,San Isidro,Singular buiding,2,2008,16344,8172,10267287,5133644
+Carabanchel,San Isidro,Religious,9,1962,252901,28100,18962003,2106889
+Carabanchel,San Isidro,Spectacles,1,1960,2375,2375,1835400,1835400
+Carabanchel,San Isidro,Residential,17238,1975,1435795,83,1072712531,62230
+Carabanchel,San Isidro,Health and care,19,1978,20214,1064,14015181,737641
+Carabanchel,Vista Alegre,Storage-Parking,3974,1984,241177,61,49200007,12380
+Carabanchel,Vista Alegre,Shopping,2032,1968,301120,148,219358383,107952
+Carabanchel,Vista Alegre,Cultural,30,1965,74558,2485,42551647,1418388
+Carabanchel,Vista Alegre,Hostelry,8,1964,4138,517,2954043,369255
+Carabanchel,Vista Alegre,Industrial,221,1966,43396,196,23321770,105528
+Carabanchel,Vista Alegre,Sports,9,1984,57680,6409,37041641,4115738
+Carabanchel,Vista Alegre,Offices,133,1970,20842,157,15254390,114695
+Carabanchel,Vista Alegre,Singular buiding,1,2005,12590,12590,10570640,10570640
+Carabanchel,Vista Alegre,Religious,19,1963,35800,1884,6640453,349498
+Carabanchel,Vista Alegre,Residential,19451,1970,1631902,84,1183014226,60820
+Carabanchel,Vista Alegre,Health and care,17,1976,17649,1038,12045207,708542
+Carabanchel,Puerta Bonita,Storage-Parking,3980,1994,170540,43,42210209,10606
+Carabanchel,Puerta Bonita,Shopping,809,1970,81790,101,63367721,78328
+Carabanchel,Puerta Bonita,Cultural,21,1951,158897,7567,83896818,3995087
+Carabanchel,Puerta Bonita,Hostelry,3,1978,2548,849,3127752,1042584
+Carabanchel,Puerta Bonita,Industrial,162,1968,34545,213,16654022,102803
+Carabanchel,Puerta Bonita,Sports,10,1983,24649,2465,12959146,1295915
+Carabanchel,Puerta Bonita,Offices,72,1973,8074,112,6345212,88128
+Carabanchel,Puerta Bonita,Singular buiding,3,1960,6936,2312,3995000,1331667
+Carabanchel,Puerta Bonita,Religious,8,1954,7721,965,3763049,470381
+Carabanchel,Puerta Bonita,Residential,14163,1974,1150457,81,840482935,59344
+Carabanchel,Puerta Bonita,Health and care,5,1977,68407,13681,49116442,9823288
+Carabanchel,Buenavista,Storage-Parking,10468,2001,317617,30,78085875,7459
+Carabanchel,Buenavista,Shopping,922,1983,398134,432,302310820,327886
+Carabanchel,Buenavista,Cultural,15,1985,91579,6105,63196970,4213131
+Carabanchel,Buenavista,Hostelry,13,1978,9344,719,6264143,481857
+Carabanchel,Buenavista,Industrial,481,1992,356555,741,156405025,325166
+Carabanchel,Buenavista,Sports,10,1997,90304,9030,47346643,4734664
+Carabanchel,Buenavista,Offices,281,1998,94761,337,68318201,243125
+Carabanchel,Buenavista,Singular buiding,5,1959,137586,27517,72929985,14585997
+Carabanchel,Buenavista,Religious,7,1990,918202,131172,73315741,10473677
+Carabanchel,Buenavista,Residential,19689,1990,2029811,103,1474309301,74880
+Carabanchel,Buenavista,Health and care,9,1984,71014,7890,54396251,6044028
+Carabanchel,Abrantes,Storage-Parking,2790,1996,147435,53,34123287,12231
+Carabanchel,Abrantes,Shopping,722,1968,67542,94,50035683,69302
+Carabanchel,Abrantes,Cultural,17,1971,41213,2424,24505375,1441493
+Carabanchel,Abrantes,Hostelry,2,1992,316,158,282906,141453
+Carabanchel,Abrantes,Industrial,83,1966,41158,496,36889061,444447
+Carabanchel,Abrantes,Sports,6,1988,52828,8805,18660279,3110047
+Carabanchel,Abrantes,Offices,50,1968,23074,461,14602652,292053
+Carabanchel,Abrantes,Religious,4,1979,4932,1233,2962071,740518
+Carabanchel,Abrantes,Residential,12413,1974,1044288,84,746768064,60160
+Carabanchel,Abrantes,Health and care,1,1984,635,635,403326,403326
+Usera,Orcasitas,Storage-Parking,668,2004,19268,29,4175604,6251
+Usera,Orcasitas,Shopping,295,1985,32127,109,15831965,53668
+Usera,Orcasitas,Cultural,14,1985,65333,4667,27253928,1946709
+Usera,Orcasitas,Industrial,16,1981,25710,1607,7178616,448664
+Usera,Orcasitas,Sports,5,1987,23731,4746,4486710,897342
+Usera,Orcasitas,Offices,12,1980,1675,140,771750,64312
+Usera,Orcasitas,Singular buiding,2,1980,5510,2755,2479289,1239645
+Usera,Orcasitas,Religious,4,1983,1809,452,928386,232097
+Usera,Orcasitas,Residential,9165,1987,1038615,113,517466181,56461
+Usera,Orcasitas,Health and care,2,1984,7432,3716,3768807,1884403
+Usera,Orcasur,Storage-Parking,1843,2001,60075,33,12372831,6713
+Usera,Orcasur,Shopping,191,1986,32930,172,19734252,103321
+Usera,Orcasur,Cultural,13,1983,71800,5523,32940001,2533846
+Usera,Orcasur,Hostelry,2,1979,200,100,144056,72028
+Usera,Orcasur,Industrial,31,1975,77727,2507,28353329,914624
+Usera,Orcasur,Sports,3,1990,16102,5367,5531530,1843843
+Usera,Orcasur,Offices,70,1991,17008,243,11683659,166909
+Usera,Orcasur,Religious,3,1989,758,253,558548,186183
+Usera,Orcasur,Residential,5193,1990,568442,109,350203029,67438
+Usera,Orcasur,Health and care,9,1988,390754,43417,206502241,22944693
+Usera,San Fermin,Storage-Parking,2978,1999,94637,32,20000760,6716
+Usera,San Fermin,Shopping,405,1977,68418,169,37743787,93195
+Usera,San Fermin,Cultural,6,1968,11108,1851,5475201,912533
+Usera,San Fermin,Hostelry,3,1984,4574,1525,2367643,789214
+Usera,San Fermin,Industrial,32,1981,47758,1492,17428455,544639
+Usera,San Fermin,Sports,5,1994,150352,30070,193684007,38736801
+Usera,San Fermin,Offices,84,1986,42137,502,23710576,282269
+Usera,San Fermin,Singular buiding,1,2009,13770,13770,9229691,9229691
+Usera,San Fermin,Religious,2,2014,2847,1424,2716810,1358405
+Usera,San Fermin,Residential,9191,1986,877259,95,581910541,63313
+Usera,San Fermin,Health and care,5,1994,21083,4217,17474760,3494952
+Usera,Almendrales,Storage-Parking,2602,1994,113200,44,25058506,9630
+Usera,Almendrales,Shopping,700,1965,84932,121,65450403,93501
+Usera,Almendrales,Cultural,13,1967,25683,1976,16168698,1243746
+Usera,Almendrales,Hostelry,7,1953,1338,191,1126036,160862
+Usera,Almendrales,Industrial,114,1979,67864,595,34444757,302147
+Usera,Almendrales,Sports,3,1979,1918,639,951676,317225
+Usera,Almendrales,Offices,56,1975,22675,405,15806605,282261
+Usera,Almendrales,Religious,4,1962,4165,1041,1779820,444955
+Usera,Almendrales,Spectacles,1,1961,1306,1306,1025694,1025694
+Usera,Almendrales,Residential,8709,1974,793212,91,577377428,66297
+Usera,Almendrales,Health and care,3,1966,3720,1240,2584263,861421
+Usera,Moscardo,Storage-Parking,1524,1986,101094,66,20833991,13671
+Usera,Moscardo,Shopping,947,1963,240365,254,183793688,194080
+Usera,Moscardo,Cultural,12,1964,31397,2616,18221617,1518468
+Usera,Moscardo,Hostelry,4,1988,3006,752,2281072,570268
+Usera,Moscardo,Industrial,47,1960,11661,248,6238718,132739
+Usera,Moscardo,Sports,20,1967,28879,1444,13522031,676102
+Usera,Moscardo,Offices,63,1965,32900,522,21836503,346611
+Usera,Moscardo,Singular buiding,1,1995,3927,3927,3311142,3311142
+Usera,Moscardo,Religious,3,1981,4900,1633,2932237,977412
+Usera,Moscardo,Residential,11159,1962,895268,80,627619587,56243
+Usera,Moscardo,Health and care,4,1968,4037,1009,2909802,727451
+Usera,Zofio,Storage-Parking,817,1988,38152,47,5556077,6801
+Usera,Zofio,Shopping,421,1970,35244,84,20530617,48766
+Usera,Zofio,Cultural,8,1970,35072,4384,17855728,2231966
+Usera,Zofio,Hostelry,1,1965,100,100,51503,51503
+Usera,Zofio,Industrial,69,1967,10700,155,3382061,49015
+Usera,Zofio,Sports,8,1992,85390,10674,20169193,2521149
+Usera,Zofio,Offices,24,1970,4052,169,1791622,74651
+Usera,Zofio,Religious,1,1960,1067,1067,464282,464282
+Usera,Zofio,Residential,5496,1973,451749,82,255586864,46504
+Usera,Zofio,Health and care,5,1984,4201,840,1756928,351386
+Usera,Pradolongo,Storage-Parking,1243,1990,68448,55,12950827,10419
+Usera,Pradolongo,Shopping,808,1967,81053,100,53637017,66382
+Usera,Pradolongo,Cultural,18,1967,32690,1816,16536382,918688
+Usera,Pradolongo,Hostelry,1,2005,301,301,179129,179129
+Usera,Pradolongo,Industrial,57,1978,14827,260,4055371,71147
+Usera,Pradolongo,Sports,4,1998,53410,13352,11318398,2829599
+Usera,Pradolongo,Offices,79,1974,11172,141,6955458,88044
+Usera,Pradolongo,Singular buiding,3,2003,11810,3937,7063463,2354488
+Usera,Pradolongo,Religious,7,1960,2912,416,1371917,195988
+Usera,Pradolongo,Spectacles,1,1995,241,241,200989,200989
+Usera,Pradolongo,Residential,6579,1972,541483,82,317900147,48320
+Usera,Pradolongo,Health and care,6,1986,16960,2827,12611514,2101919
+Puente de Vallecas,Entrevias,Storage-Parking,726,1988,52407,72,9797719,13495
+Puente de Vallecas,Entrevias,Shopping,1060,1976,89953,85,45230773,42671
+Puente de Vallecas,Entrevias,Cultural,19,1976,71007,3737,34859864,1834730
+Puente de Vallecas,Entrevias,Hostelry,10,1983,6084,608,3285064,328506
+Puente de Vallecas,Entrevias,Industrial,45,1977,351119,7803,96946292,2154362
+Puente de Vallecas,Entrevias,Sports,12,1988,157339,13112,24886690,2073891
+Puente de Vallecas,Entrevias,Offices,5,1977,3151,630,1732565,346513
+Puente de Vallecas,Entrevias,Singular buiding,1,1978,4880,4880,2625713,2625713
+Puente de Vallecas,Entrevias,Religious,4,1985,5396,1349,3389623,847406
+Puente de Vallecas,Entrevias,Spectacles,1,1983,1835,1835,654200,654200
+Puente de Vallecas,Entrevias,Residential,13657,1975,1151129,84,616718209,45158
+Puente de Vallecas,Entrevias,Health and care,8,1973,9868,1234,6021619,752702
+Puente de Vallecas,San Diego,Storage-Parking,2421,1993,136746,56,27702865,11443
+Puente de Vallecas,San Diego,Shopping,1986,1962,220363,111,157900849,79507
+Puente de Vallecas,San Diego,Cultural,19,1966,31277,1646,16789820,883675
+Puente de Vallecas,San Diego,Hostelry,9,1959,8081,898,5536449,615161
+Puente de Vallecas,San Diego,Industrial,41,1962,7345,179,3906909,95290
+Puente de Vallecas,San Diego,Sports,4,1989,4983,1246,2206885,551721
+Puente de Vallecas,San Diego,Offices,39,1963,12738,327,9264601,237554
+Puente de Vallecas,San Diego,Singular buiding,2,1940,4007,2004,2176502,1088251
+Puente de Vallecas,San Diego,Religious,12,1965,11727,977,6486144,540512
+Puente de Vallecas,San Diego,Spectacles,2,1960,2646,1323,1590649,795324
+Puente de Vallecas,San Diego,Residential,17704,1964,1226534,69,857419911,48431
+Puente de Vallecas,San Diego,Health and care,11,1966,23531,2139,15744906,1431355
+Puente de Vallecas,Palomeras Bajas,Storage-Parking,4821,1993,215260,45,40154792,8329
+Puente de Vallecas,Palomeras Bajas,Shopping,967,1977,122497,127,67982875,70303
+Puente de Vallecas,Palomeras Bajas,Cultural,28,1980,93441,3337,46838302,1672797
+Puente de Vallecas,Palomeras Bajas,Hostelry,3,1975,501,167,303546,101182
+Puente de Vallecas,Palomeras Bajas,Industrial,46,1982,6975,152,3068903,66715
+Puente de Vallecas,Palomeras Bajas,Sports,16,1994,74119,4632,33238506,2077407
+Puente de Vallecas,Palomeras Bajas,Offices,10,1968,794,79,457431,45743
+Puente de Vallecas,Palomeras Bajas,Singular buiding,6,1984,26860,4477,15986223,2664370
+Puente de Vallecas,Palomeras Bajas,Religious,8,1975,8739,1092,4761687,595211
+Puente de Vallecas,Palomeras Bajas,Spectacles,3,1992,646,215,395931,131977
+Puente de Vallecas,Palomeras Bajas,Residential,16659,1981,1583099,95,907952168,54502
+Puente de Vallecas,Palomeras Bajas,Health and care,14,1986,18718,1337,11964546,854610
+Puente de Vallecas,Palomeras sureste,Storage-Parking,7327,1994,272125,37,56035490,7648
+Puente de Vallecas,Palomeras sureste,Shopping,1152,1979,94501,82,50850412,44141
+Puente de Vallecas,Palomeras sureste,Cultural,32,1984,157039,4907,72176342,2255511
+Puente de Vallecas,Palomeras sureste,Hostelry,2,2016,3303,1652,1290705,645353
+Puente de Vallecas,Palomeras sureste,Industrial,273,1991,184307,675,58857745,215596
+Puente de Vallecas,Palomeras sureste,Sports,10,1985,57766,5777,20279298,2027930
+Puente de Vallecas,Palomeras sureste,Offices,158,2003,43330,274,28820657,182409
+Puente de Vallecas,Palomeras sureste,Singular buiding,3,1996,9143,3048,5785131,1928377
+Puente de Vallecas,Palomeras sureste,Religious,7,1983,3573,510,2404627,343518
+Puente de Vallecas,Palomeras sureste,Residential,17804,1982,1619527,91,999349822,56131
+Puente de Vallecas,Palomeras sureste,Health and care,14,1985,19399,1386,14002828,1000202
+Puente de Vallecas,Portazgo,Storage-Parking,3028,1991,115151,38,19960535,6592
+Puente de Vallecas,Portazgo,Shopping,1138,1976,84115,74,44230906,38867
+Puente de Vallecas,Portazgo,Cultural,33,1976,38005,1152,18149596,549988
+Puente de Vallecas,Portazgo,Hostelry,6,1984,1799,300,1057251,176208
+Puente de Vallecas,Portazgo,Industrial,100,1979,168496,1685,21489133,214891
+Puente de Vallecas,Portazgo,Sports,16,1970,7020,439,2047344,127959
+Puente de Vallecas,Portazgo,Offices,34,1976,2414,71,1363662,40108
+Puente de Vallecas,Portazgo,Religious,3,1987,5370,1790,3651229,1217076
+Puente de Vallecas,Portazgo,Spectacles,2,1979,535,268,356891,178445
+Puente de Vallecas,Portazgo,Residential,11848,1977,987926,83,577267251,48723
+Puente de Vallecas,Portazgo,Health and care,3,1991,14138,4713,9728840,3242947
+Puente de Vallecas,Numancia,Storage-Parking,3793,1992,218604,58,45854672,12089
+Puente de Vallecas,Numancia,Shopping,1152,1967,182396,158,134005060,116324
+Puente de Vallecas,Numancia,Cultural,23,1975,47625,2071,25379123,1103440
+Puente de Vallecas,Numancia,Hostelry,9,1981,3181,353,3986882,442987
+Puente de Vallecas,Numancia,Industrial,220,1973,36330,165,15292703,69512
+Puente de Vallecas,Numancia,Sports,8,1983,63163,7895,30603362,3825420
+Puente de Vallecas,Numancia,Offices,118,1973,18670,158,11868998,100585
+Puente de Vallecas,Numancia,Singular buiding,6,1973,10803,1800,5972422,995404
+Puente de Vallecas,Numancia,Religious,9,1972,2616,291,1786119,198458
+Puente de Vallecas,Numancia,Spectacles,1,1955,1938,1938,939640,939640
+Puente de Vallecas,Numancia,Residential,20263,1971,1712472,85,1072633210,52936
+Puente de Vallecas,Numancia,Health and care,22,1984,49335,2242,34638132,1574461
+Moratalaz,Pavones,Storage-Parking,209,1995,6565,31,2244542,10739
+Moratalaz,Pavones,Shopping,196,1977,16110,82,15860442,80921
+Moratalaz,Pavones,Cultural,10,1990,66955,6696,65929333,6592933
+Moratalaz,Pavones,Hostelry,4,1975,635,159,653059,163265
+Moratalaz,Pavones,Industrial,4,1983,4541,1135,2959634,739908
+Moratalaz,Pavones,Sports,4,1987,44937,11234,26728176,6682044
+Moratalaz,Pavones,Offices,37,1980,2870,78,3001674,81126
+Moratalaz,Pavones,Singular buiding,1,1998,6142,6142,7392005,7392005
+Moratalaz,Pavones,Religious,1,1972,1041,1041,740161,740161
+Moratalaz,Pavones,Residential,3564,1979,376836,106,364082977,102156
+Moratalaz,Pavones,Health and care,8,1995,56070,7009,59008602,7376075
+Moratalaz,Horcajo,Storage-Parking,1328,2001,37824,28,12587526,9479
+Moratalaz,Horcajo,Shopping,107,2000,10614,99,13233975,123682
+Moratalaz,Horcajo,Cultural,1,2018,1698,1698,1973076,1973076
+Moratalaz,Horcajo,Sports,3,2011,6949,2316,3381848,1127283
+Moratalaz,Horcajo,Offices,3,2002,314,105,360386,120129
+Moratalaz,Horcajo,Residential,2410,1999,339588,141,338808842,140585
+Moratalaz,Marroquina,Storage-Parking,2804,1988,169119,60,40776366,14542
+Moratalaz,Marroquina,Shopping,787,1975,64822,82,65839113,83658
+Moratalaz,Marroquina,Cultural,16,1983,83118,5195,79799841,4987490
+Moratalaz,Marroquina,Hostelry,1,1998,50,50,54670,54670
+Moratalaz,Marroquina,Industrial,24,1982,8985,374,3242195,135091
+Moratalaz,Marroquina,Sports,14,1983,26618,1901,18936118,1352580
+Moratalaz,Marroquina,Offices,84,1973,11748,140,10246397,121981
+Moratalaz,Marroquina,Religious,3,1974,2794,931,2421460,807153
+Moratalaz,Marroquina,Residential,11873,1976,1173000,99,1194116948,100574
+Moratalaz,Marroquina,Health and care,7,1980,10231,1462,11314678,1616383
+Moratalaz,Media Legua,Storage-Parking,1963,1987,174086,89,46370001,23622
+Moratalaz,Media Legua,Shopping,392,1976,67417,172,85760812,218778
+Moratalaz,Media Legua,Cultural,7,1982,26756,3822,22776461,3253780
+Moratalaz,Media Legua,Hostelry,1,1994,1418,1418,1576292,1576292
+Moratalaz,Media Legua,Industrial,14,1972,2973,212,1931576,137970
+Moratalaz,Media Legua,Sports,5,1981,53724,10745,33739002,6747800
+Moratalaz,Media Legua,Offices,74,1977,8241,111,9746160,131705
+Moratalaz,Media Legua,Religious,3,1973,4111,1370,3773422,1257807
+Moratalaz,Media Legua,Residential,8024,1975,792250,99,827978737,103188
+Moratalaz,Media Legua,Health and care,7,1980,18173,2596,17509309,2501330
+Moratalaz,Fontarron,Storage-Parking,109,1973,77565,712,19693080,180670
+Moratalaz,Fontarron,Shopping,258,1966,24138,94,22255002,86260
+Moratalaz,Fontarron,Cultural,9,1966,27140,3016,19764897,2196100
+Moratalaz,Fontarron,Hostelry,1,1991,50,50,60725,60725
+Moratalaz,Fontarron,Industrial,15,1968,3830,255,2558540,170569
+Moratalaz,Fontarron,Sports,12,1970,7981,665,4773247,397771
+Moratalaz,Fontarron,Offices,36,1967,4312,120,3562880,98969
+Moratalaz,Fontarron,Singular buiding,1,1960,22666,22666,15077457,15077457
+Moratalaz,Fontarron,Religious,1,1975,677,677,571353,571353
+Moratalaz,Fontarron,Residential,7822,1967,645624,83,568167148,72637
+Moratalaz,Fontarron,Health and care,2,1972,1827,914,1507530,753765
+Moratalaz,Vinateros,Storage-Parking,97,1982,38172,394,9061184,93414
+Moratalaz,Vinateros,Shopping,257,1968,22521,88,22129800,86108
+Moratalaz,Vinateros,Cultural,4,1976,16751,4188,13327282,3331820
+Moratalaz,Vinateros,Hostelry,1,1974,48,48,54553,54553
+Moratalaz,Vinateros,Industrial,3,1961,139,46,73496,24499
+Moratalaz,Vinateros,Sports,2,1990,4659,2330,2854829,1427414
+Moratalaz,Vinateros,Offices,16,1964,2826,177,2139663,133729
+Moratalaz,Vinateros,Religious,3,1989,2766,922,2404697,801566
+Moratalaz,Vinateros,Residential,8196,1966,639963,78,623833348,76114
+Moratalaz,Vinateros,Health and care,2,1998,5518,2759,5774132,2887066
+Ciudad Lineal,Ventas,Storage-Parking,4821,1982,275423,57,98715683,20476
+Ciudad Lineal,Ventas,Shopping,1464,1965,134958,92,157429588,107534
+Ciudad Lineal,Ventas,Cultural,12,1966,55712,4643,44388131,3699011
+Ciudad Lineal,Ventas,Hostelry,3,1962,1384,461,1088528,362843
+Ciudad Lineal,Ventas,Industrial,219,1967,76429,349,85468609,390268
+Ciudad Lineal,Ventas,Sports,9,1991,28054,3117,17704933,1967215
+Ciudad Lineal,Ventas,Offices,207,1971,29284,141,30257862,146173
+Ciudad Lineal,Ventas,Singular buiding,2,1995,182,91,180990,90495
+Ciudad Lineal,Ventas,Religious,16,1962,1198157,74885,229678822,14354926
+Ciudad Lineal,Ventas,Residential,23310,1967,1803872,77,1829047197,78466
+Ciudad Lineal,Ventas,Health and care,6,1992,8890,1482,9660812,1610135
+Ciudad Lineal,Pueblo Nuevo,Storage-Parking,8113,1992,423731,52,141954326,17497
+Ciudad Lineal,Pueblo Nuevo,Shopping,2185,1974,256467,117,327713943,149984
+Ciudad Lineal,Pueblo Nuevo,Cultural,16,1974,62104,3882,49951092,3121943
+Ciudad Lineal,Pueblo Nuevo,Hostelry,2,1980,9790,4895,9897014,4948507
+Ciudad Lineal,Pueblo Nuevo,Industrial,216,1969,51483,238,34286441,158734
+Ciudad Lineal,Pueblo Nuevo,Sports,16,1981,48074,3005,37481565,2342598
+Ciudad Lineal,Pueblo Nuevo,Offices,262,1973,29946,114,30799458,117555
+Ciudad Lineal,Pueblo Nuevo,Singular buiding,2,1996,5715,2858,6952735,3476368
+Ciudad Lineal,Pueblo Nuevo,Religious,16,1976,37799,2362,15629335,976833
+Ciudad Lineal,Pueblo Nuevo,Residential,27336,1973,2268010,83,2290524982,83792
+Ciudad Lineal,Pueblo Nuevo,Health and care,7,1993,27257,3894,27271515,3895931
+Ciudad Lineal,Quintana,Storage-Parking,3017,1986,145531,48,65447363,21693
+Ciudad Lineal,Quintana,Shopping,1363,1965,151729,111,208649538,153081
+Ciudad Lineal,Quintana,Cultural,29,1963,47143,1626,44706260,1541595
+Ciudad Lineal,Quintana,Hostelry,2,1980,3679,1840,4830492,2415246
+Ciudad Lineal,Quintana,Industrial,100,1963,14315,143,12136845,121368
+Ciudad Lineal,Quintana,Sports,49,1968,2422,49,2421366,49416
+Ciudad Lineal,Quintana,Offices,129,1969,20590,160,23202672,179866
+Ciudad Lineal,Quintana,Singular buiding,1,1943,645,645,611760,611760
+Ciudad Lineal,Quintana,Religious,4,1945,2698,674,2092976,523244
+Ciudad Lineal,Quintana,Spectacles,2,1970,218,109,256487,128244
+Ciudad Lineal,Quintana,Residential,12153,1965,980596,81,1090555604,89736
+Ciudad Lineal,Quintana,Health and care,12,1966,9239,770,10991469,915956
+Ciudad Lineal,Concepcion,Storage-Parking,2638,1990,159123,60,67101422,25436
+Ciudad Lineal,Concepcion,Shopping,1018,1963,146179,144,151810822,149127
+Ciudad Lineal,Concepcion,Cultural,6,1976,12246,2041,10792061,1798677
+Ciudad Lineal,Concepcion,Hostelry,87,1999,15316,176,22494575,258558
+Ciudad Lineal,Concepcion,Industrial,23,1969,7015,305,6678938,290389
+Ciudad Lineal,Concepcion,Sports,8,1976,33789,4224,15226772,1903346
+Ciudad Lineal,Concepcion,Offices,173,1972,40617,235,54981049,317810
+Ciudad Lineal,Concepcion,Religious,3,1970,5899,1966,5398976,1799659
+Ciudad Lineal,Concepcion,Spectacles,2,1976,4471,2236,3805136,1902568
+Ciudad Lineal,Concepcion,Residential,10877,1964,983317,90,1076315664,98953
+Ciudad Lineal,Concepcion,Health and care,14,1980,6452,461,14356190,1025442
+Ciudad Lineal,San Pascual,Storage-Parking,2592,1930,140963,54,56562711,21822
+Ciudad Lineal,San Pascual,Shopping,534,1974,57658,108,67867782,127093
+Ciudad Lineal,San Pascual,Cultural,13,1970,63175,4860,56408687,4339130
+Ciudad Lineal,San Pascual,Hostelry,2,1995,31238,15619,39403722,19701861
+Ciudad Lineal,San Pascual,Industrial,44,1972,10051,228,6377459,144942
+Ciudad Lineal,San Pascual,Sports,6,1996,12557,2093,10639339,1773223
+Ciudad Lineal,San Pascual,Offices,124,1981,302237,2437,412765898,3328757
+Ciudad Lineal,San Pascual,Singular buiding,4,1971,103749,25937,103772400,25943100
+Ciudad Lineal,San Pascual,Religious,3,1983,19613,6538,19963211,6654404
+Ciudad Lineal,San Pascual,Residential,8994,1976,884856,98,1068633484,118816
+Ciudad Lineal,San Pascual,Health and care,9,1988,18042,2005,22380667,2486741
+Ciudad Lineal,San Juan Bautista,Storage-Parking,4858,1990,223793,46,110675978,22782
+Ciudad Lineal,San Juan Bautista,Shopping,359,1982,40152,112,79753874,222156
+Ciudad Lineal,San Juan Bautista,Cultural,10,1982,44131,4413,45287038,4528704
+Ciudad Lineal,San Juan Bautista,Hostelry,7,1990,23084,3298,36290618,5184374
+Ciudad Lineal,San Juan Bautista,Industrial,16,1982,1189,74,1007140,62946
+Ciudad Lineal,San Juan Bautista,Sports,10,1983,18012,1801,13889445,1388945
+Ciudad Lineal,San Juan Bautista,Offices,260,1987,274816,1057,434917699,1672760
+Ciudad Lineal,San Juan Bautista,Singular buiding,1,1975,2343,2343,2925938,2925938
+Ciudad Lineal,San Juan Bautista,Religious,5,1977,11112,2222,10712675,2142535
+Ciudad Lineal,San Juan Bautista,Residential,5874,1983,748279,127,1004244194,170964
+Ciudad Lineal,San Juan Bautista,Health and care,10,1977,34805,3480,44727732,4472773
+Ciudad Lineal,Colina,Storage-Parking,1929,1987,80975,42,41818038,21679
+Ciudad Lineal,Colina,Shopping,204,1975,26984,132,41787618,204841
+Ciudad Lineal,Colina,Cultural,16,1979,48643,3040,58463908,3653994
+Ciudad Lineal,Colina,Hostelry,7,1950,5609,801,8471101,1210157
+Ciudad Lineal,Colina,Industrial,11,1970,4144,377,3238307,294392
+Ciudad Lineal,Colina,Sports,3,1971,871,290,164233,54744
+Ciudad Lineal,Colina,Offices,110,1975,22313,203,30224179,274765
+Ciudad Lineal,Colina,Religious,2,1967,4585,2292,4680029,2340015
+Ciudad Lineal,Colina,Residential,3101,1978,368737,119,497962969,160581
+Ciudad Lineal,Colina,Health and care,9,1953,31818,3535,38318926,4257658
+Ciudad Lineal,Atalaya,Storage-Parking,315,1991,17863,57,7017969,22279
+Ciudad Lineal,Atalaya,Shopping,23,1974,1733,75,2649514,115196
+Ciudad Lineal,Atalaya,Cultural,2,1966,3089,1544,3614540,1807270
+Ciudad Lineal,Atalaya,Hostelry,2,1949,4266,2133,2572339,1286169
+Ciudad Lineal,Atalaya,Industrial,2,1968,58,29,34779,17389
+Ciudad Lineal,Atalaya,Sports,1,1993,670,670,64839,64839
+Ciudad Lineal,Atalaya,Offices,46,1991,9478,206,15251064,331545
+Ciudad Lineal,Atalaya,Singular buiding,1,1996,2507,2507,3714461,3714461
+Ciudad Lineal,Atalaya,Religious,4,1976,8562,2140,8391065,2097766
+Ciudad Lineal,Atalaya,Residential,717,1978,122492,171,165970724,231479
+Ciudad Lineal,Atalaya,Health and care,1,1959,3899,3899,4257708,4257708
+Ciudad Lineal,Costillares,Storage-Parking,9139,1987,308499,34,126030266,13790
+Ciudad Lineal,Costillares,Shopping,348,1983,42277,121,61819578,177642
+Ciudad Lineal,Costillares,Cultural,18,1977,51623,2868,49419077,2745504
+Ciudad Lineal,Costillares,Hostelry,76,2003,16246,214,33353962,438868
+Ciudad Lineal,Costillares,Industrial,9,1987,329,37,293008,32556
+Ciudad Lineal,Costillares,Sports,58,1986,43646,753,37921099,653812
+Ciudad Lineal,Costillares,Offices,249,1987,236828,951,347967451,1397460
+Ciudad Lineal,Costillares,Singular buiding,3,1966,52564,17521,51359096,17119699
+Ciudad Lineal,Costillares,Religious,4,1983,13137,3284,14388424,3597106
+Ciudad Lineal,Costillares,Residential,9323,1985,1302864,140,1847362705,198151
+Ciudad Lineal,Costillares,Health and care,6,1992,32371,5395,46464297,7744050
+Hortaleza,Palomas,Storage-Parking,2581,2001,93415,36,38960546,15095
+Hortaleza,Palomas,Shopping,64,1995,118611,1853,105839291,1653739
+Hortaleza,Palomas,Cultural,8,1984,27691,3461,30267180,3783397
+Hortaleza,Palomas,Hostelry,6,1978,15015,2502,21107432,3517905
+Hortaleza,Palomas,Industrial,5,1975,5939,1188,4406543,881309
+Hortaleza,Palomas,Sports,26,1982,18899,727,16874122,649005
+Hortaleza,Palomas,Offices,6,2004,97485,16248,108954981,18159163
+Hortaleza,Palomas,Religious,1,1998,2641,2641,2440589,2440589
+Hortaleza,Palomas,Residential,2642,1992,533757,202,689727840,261063
+Hortaleza,Palomas,Health and care,1,2000,871,871,1202678,1202678
+Hortaleza,Piovera,Storage-Parking,4386,1999,145778,33,74046341,16882
+Hortaleza,Piovera,Shopping,220,1995,32901,150,55706029,253209
+Hortaleza,Piovera,Cultural,14,1990,142388,10171,80893129,5778081
+Hortaleza,Piovera,Hostelry,3,1996,7017,2339,10378612,3459537
+Hortaleza,Piovera,Industrial,9,1998,7983,887,8933474,992608
+Hortaleza,Piovera,Sports,18,1993,59273,3293,48842423,2713468
+Hortaleza,Piovera,Offices,28,1992,69307,2475,94428071,3372431
+Hortaleza,Piovera,Religious,3,1989,4665,1555,5278410,1759470
+Hortaleza,Piovera,Residential,5439,1993,1409549,259,2117819987,389377
+Hortaleza,Piovera,Health and care,17,2003,15563,915,20774001,1222000
+Hortaleza,Canillas,Storage-Parking,6965,1991,258935,37,100228901,14390
+Hortaleza,Canillas,Shopping,1076,1976,223088,207,240248996,223280
+Hortaleza,Canillas,Cultural,30,1978,68288,2276,61907080,2063569
+Hortaleza,Canillas,Hostelry,10,1560,3795,380,4401608,440161
+Hortaleza,Canillas,Industrial,99,1973,66914,676,47866877,483504
+Hortaleza,Canillas,Sports,17,1985,40185,2364,32532765,1913692
+Hortaleza,Canillas,Offices,225,1984,185755,826,186181210,827472
+Hortaleza,Canillas,Singular buiding,3,1997,13456,4485,13881192,4627064
+Hortaleza,Canillas,Religious,16,1982,36185,2262,28661118,1791320
+Hortaleza,Canillas,Spectacles,1,2002,1974,1974,2133280,2133280
+Hortaleza,Canillas,Residential,18150,1978,1900401,105,2240759508,123458
+Hortaleza,Canillas,Health and care,24,1996,37480,1562,44000365,1833349
+Hortaleza,Pinar del Rey,Storage-Parking,7154,1991,321318,45,114710319,16034
+Hortaleza,Pinar del Rey,Shopping,1466,1974,232283,158,254325795,173483
+Hortaleza,Pinar del Rey,Cultural,26,1972,70207,2700,60229277,2316511
+Hortaleza,Pinar del Rey,Hostelry,6,1646,11424,1904,12594354,2099059
+Hortaleza,Pinar del Rey,Industrial,77,1971,18959,246,9114482,118370
+Hortaleza,Pinar del Rey,Sports,19,1990,42848,2255,27539132,1449428
+Hortaleza,Pinar del Rey,Offices,135,1972,142285,1054,196856341,1458195
+Hortaleza,Pinar del Rey,Singular buiding,1,2006,4971,4971,5278658,5278658
+Hortaleza,Pinar del Rey,Religious,13,1973,5652,435,5055065,388851
+Hortaleza,Pinar del Rey,Residential,24014,1974,2153620,90,2404502169,100129
+Hortaleza,Pinar del Rey,Health and care,19,1988,81783,4304,87358106,4597795
+Hortaleza,Apostol Santiago,Storage-Parking,995,1987,52454,53,19604265,19703
+Hortaleza,Apostol Santiago,Shopping,175,1979,31163,178,32714113,186938
+Hortaleza,Apostol Santiago,Cultural,6,1970,19978,3330,18339974,3056662
+Hortaleza,Apostol Santiago,Hostelry,2,1992,15391,7696,19962703,9981352
+Hortaleza,Apostol Santiago,Industrial,15,1977,49666,3311,19279821,1285321
+Hortaleza,Apostol Santiago,Sports,10,1994,41733,4173,25470006,2547001
+Hortaleza,Apostol Santiago,Offices,18,1978,64719,3596,73107811,4061545
+Hortaleza,Apostol Santiago,Singular buiding,2,1995,8742,4371,8332561,4166281
+Hortaleza,Apostol Santiago,Religious,1,1975,1488,1488,1524902,1524902
+Hortaleza,Apostol Santiago,Residential,6483,1976,704898,109,767167806,118335
+Hortaleza,Apostol Santiago,Health and care,5,1984,7270,1454,6437788,1287558
+Hortaleza,Valdefuentes,Storage-Parking,21963,2006,661406,30,287839763,13106
+Hortaleza,Valdefuentes,Shopping,471,1996,348454,740,401915673,853324
+Hortaleza,Valdefuentes,Cultural,23,1904,172917,7518,182080550,7916546
+Hortaleza,Valdefuentes,Hostelry,10,1988,30430,3043,44432340,4443234
+Hortaleza,Valdefuentes,Industrial,348,1984,390849,1123,272212040,782219
+Hortaleza,Valdefuentes,Sports,12,2006,669676,55806,47178641,3931553
+Hortaleza,Valdefuentes,Offices,1261,2007,946362,750,1191272863,944705
+Hortaleza,Valdefuentes,Religious,5,1988,8059,1612,8075304,1615061
+Hortaleza,Valdefuentes,Spectacles,1,2006,41474,41474,27699608,27699608
+Hortaleza,Valdefuentes,Residential,25607,2005,3977000,155,4706316016,183790
+Hortaleza,Valdefuentes,Health and care,9,2000,110639,12293,128194814,14243868
+Villaverde,Villaverde Alto,Storage-Parking,7244,1991,266355,37,75308095,10396
+Villaverde,Villaverde Alto,Shopping,1241,1971,156834,126,120053049,96739
+Villaverde,Villaverde Alto,Cultural,53,1977,77824,1468,55233653,1042144
+Villaverde,Villaverde Alto,Hostelry,9,1974,19530,2170,13238983,1470998
+Villaverde,Villaverde Alto,Industrial,1507,1994,1673727,1111,498471660,330771
+Villaverde,Villaverde Alto,Sports,10,1975,64880,6488,24384609,2438461
+Villaverde,Villaverde Alto,Offices,1224,2001,334080,273,164689520,134550
+Villaverde,Villaverde Alto,Singular buiding,6,1971,13006,2168,7625128,1270855
+Villaverde,Villaverde Alto,Religious,7,1959,18021,2574,2377434,339633
+Villaverde,Villaverde Alto,Spectacles,1,1988,3246,3246,2624972,2624972
+Villaverde,Villaverde Alto,Residential,18161,1976,1575910,87,1087783629,59897
+Villaverde,Villaverde Alto,Health and care,32,1977,35356,1105,24390343,762198
+Villaverde,San Cristobal,Storage-Parking,5,1980,246,49,80237,16047
+Villaverde,San Cristobal,Shopping,307,1964,14391,47,6062961,19749
+Villaverde,San Cristobal,Cultural,8,1970,31520,3940,10681614,1335202
+Villaverde,San Cristobal,Hostelry,16,1965,1074,67,435258,27204
+Villaverde,San Cristobal,Industrial,16,1961,1551,97,373900,23369
+Villaverde,San Cristobal,Sports,3,1982,10442,3481,2490150,830050
+Villaverde,San Cristobal,Offices,21,1967,7631,363,3964239,188773
+Villaverde,San Cristobal,Singular buiding,1,1957,131640,131640,51661067,51661067
+Villaverde,San Cristobal,Religious,4,1966,3390,848,1228499,307125
+Villaverde,San Cristobal,Residential,5649,1965,390180,69,159564597,28247
+Villaverde,San Cristobal,Health and care,4,1964,1354,338,474651,118663
+Villaverde,Butarque,Storage-Parking,2629,2006,110074,42,33722233,12827
+Villaverde,Butarque,Shopping,238,1993,36870,155,25394899,106701
+Villaverde,Butarque,Cultural,8,1983,30494,3812,18247428,2280929
+Villaverde,Butarque,Industrial,46,1980,352237,7657,93711412,2037205
+Villaverde,Butarque,Sports,5,1992,11099,2220,2929800,585960
+Villaverde,Butarque,Offices,19,1998,31542,1660,23428080,1233057
+Villaverde,Butarque,Residential,8152,1998,895326,110,630608079,77356
+Villaverde,Butarque,Health and care,6,1990,13814,2302,12462167,2077028
+Villaverde,Los Rosales,Storage-Parking,4781,1993,210579,44,59125951,12367
+Villaverde,Los Rosales,Shopping,925,1977,134199,145,121257067,131089
+Villaverde,Los Rosales,Cultural,36,1974,60622,1684,41237835,1145495
+Villaverde,Los Rosales,Hostelry,1,1992,122,122,108595,108595
+Villaverde,Los Rosales,Industrial,70,1977,98332,1405,21222082,303173
+Villaverde,Los Rosales,Sports,12,1986,27672,2306,15044649,1253721
+Villaverde,Los Rosales,Offices,102,1985,32187,316,25947584,254388
+Villaverde,Los Rosales,Religious,4,1979,2529,632,1871754,467938
+Villaverde,Los Rosales,Residential,14444,1980,1300975,90,927942253,64244
+Villaverde,Los Rosales,Health and care,17,1987,16820,989,14921613,877742
+Villaverde,Los Angeles,Storage-Parking,2505,1982,98069,39,26123603,10429
+Villaverde,Los Angeles,Shopping,722,1970,56130,78,42013010,58190
+Villaverde,Los Angeles,Cultural,25,1970,45016,1801,25134526,1005381
+Villaverde,Los Angeles,Hostelry,1,2018,1621,1621,2627629,2627629
+Villaverde,Los Angeles,Industrial,43,1972,111946,2603,39348408,915079
+Villaverde,Los Angeles,Sports,8,1984,13952,1744,5219829,652479
+Villaverde,Los Angeles,Offices,44,1971,19251,438,6787484,154261
+Villaverde,Los Angeles,Singular buiding,7,1965,4251,607,2488880,355554
+Villaverde,Los Angeles,Religious,2,1964,2980,1490,1591778,795889
+Villaverde,Los Angeles,Residential,13786,1972,1267452,92,963213639,69869
+Villaverde,Los Angeles,Health and care,18,1976,16037,891,13267321,737073
+Villa de Vallecas,Casco Historico de Vallecas,Storage-Parking,6891,1993,294891,43,75769608,10995
+Villa de Vallecas,Casco Historico de Vallecas,Shopping,1137,1978,148051,130,122773009,107980
+Villa de Vallecas,Casco Historico de Vallecas,Cultural,28,1978,51134,1826,31711215,1132543
+Villa de Vallecas,Casco Historico de Vallecas,Hostelry,379,2001,79695,210,64915415,171281
+Villa de Vallecas,Casco Historico de Vallecas,Industrial,1148,1994,1321622,1151,507078011,441706
+Villa de Vallecas,Casco Historico de Vallecas,Sports,5,1992,32606,6521,21652606,4330521
+Villa de Vallecas,Casco Historico de Vallecas,Offices,481,1993,379388,789,170361319,354182
+Villa de Vallecas,Casco Historico de Vallecas,Singular buiding,4,1988,8483,2121,5393023,1348256
+Villa de Vallecas,Casco Historico de Vallecas,Religious,10,1970,29057,2906,3972542,397254
+Villa de Vallecas,Casco Historico de Vallecas,Residential,14990,1981,1206041,80,914968486,61039
+Villa de Vallecas,Casco Historico de Vallecas,Health and care,21,1975,19105,910,14630565,696694
+Villa de Vallecas,Santa Eugenia,Storage-Parking,2019,1993,182056,90,44443210,22012
+Villa de Vallecas,Santa Eugenia,Shopping,391,1983,60309,154,37593220,96146
+Villa de Vallecas,Santa Eugenia,Cultural,14,1989,24770,1769,16958329,1211309
+Villa de Vallecas,Santa Eugenia,Industrial,18,1985,28428,1579,9321326,517851
+Villa de Vallecas,Santa Eugenia,Sports,10,1994,21592,2159,10379328,1037933
+Villa de Vallecas,Santa Eugenia,Offices,33,1984,15007,455,8392012,254303
+Villa de Vallecas,Santa Eugenia,Religious,2,1970,2071,1036,1279915,639958
+Villa de Vallecas,Santa Eugenia,Spectacles,1,1984,2815,2815,1303106,1303106
+Villa de Vallecas,Santa Eugenia,Residential,9736,1981,989930,102,653455815,67117
+Villa de Vallecas,Santa Eugenia,Health and care,17,1993,95476,5616,71573875,4210228
+Villa de Vallecas,Ensanche de Vallecas,Storage-Parking,12644,2009,338582,27,113111463,8946
+Villa de Vallecas,Ensanche de Vallecas,Shopping,507,2009,374973,740,349341626,689037
+Villa de Vallecas,Ensanche de Vallecas,Cultural,9,2011,92974,10330,72461462,8051274
+Villa de Vallecas,Ensanche de Vallecas,Industrial,255,2008,114770,450,31688973,124270
+Villa de Vallecas,Ensanche de Vallecas,Sports,5,2008,56203,11241,33125688,6625138
+Villa de Vallecas,Ensanche de Vallecas,Offices,42,2008,66294,1578,66852606,1591729
+Villa de Vallecas,Ensanche de Vallecas,Religious,2,2012,503,252,1899357,949679
+Villa de Vallecas,Ensanche de Vallecas,Residential,23767,2009,2840807,120,2409199728,101367
+Villa de Vallecas,Ensanche de Vallecas,Health and care,5,2009,38146,7629,47788786,9557757
+Vicalvaro,Casco Historico de Vicalvaro,Storage-Parking,2899,1993,133237,46,33825710,11668
+Vicalvaro,Casco Historico de Vicalvaro,Shopping,1028,1972,118540,115,91466772,88975
+Vicalvaro,Casco Historico de Vicalvaro,Cultural,33,1980,154479,4681,110806901,3357785
+Vicalvaro,Casco Historico de Vicalvaro,Hostelry,4,1946,14755,3689,12324320,3081080
+Vicalvaro,Casco Historico de Vicalvaro,Industrial,189,1977,609212,3223,206211085,1091064
+Vicalvaro,Casco Historico de Vicalvaro,Sports,9,1979,39354,4373,15821604,1757956
+Vicalvaro,Casco Historico de Vicalvaro,Offices,237,1997,90723,383,54072683,228155
+Vicalvaro,Casco Historico de Vicalvaro,Singular buiding,3,1986,3780,1260,2930171,976724
+Vicalvaro,Casco Historico de Vicalvaro,Religious,7,1955,10556,1508,2275361,325052
+Vicalvaro,Casco Historico de Vicalvaro,Spectacles,1,2000,23024,23024,3299891,3299891
+Vicalvaro,Casco Historico de Vicalvaro,Residential,14263,1972,1113267,78,819061623,57426
+Vicalvaro,Casco Historico de Vicalvaro,Health and care,7,1981,12611,1802,10926682,1560955
+Vicalvaro,Valdebernardo,Storage-Parking,4400,1998,128953,29,32023961,7278
+Vicalvaro,Valdebernardo,Shopping,293,1997,47401,162,50302377,171680
+Vicalvaro,Valdebernardo,Cultural,8,2005,40684,5086,32046857,4005857
+Vicalvaro,Valdebernardo,Industrial,7,2002,18198,2600,9368506,1338358
+Vicalvaro,Valdebernardo,Sports,4,2003,48945,12236,29140462,7285115
+Vicalvaro,Valdebernardo,Offices,6,1997,2487,414,2243495,373916
+Vicalvaro,Valdebernardo,Religious,1,2008,2410,2410,2345342,2345342
+Vicalvaro,Valdebernardo,Spectacles,1,2001,90514,90514,26560632,26560632
+Vicalvaro,Valdebernardo,Residential,6599,1997,784623,119,642696803,97393
+Vicalvaro,Valdebernardo,Health and care,5,2006,44271,8854,40417284,8083457
+Vicalvaro,Valderribas,Storage-Parking,2343,2003,74002,32,20451078,8729
+Vicalvaro,Valderribas,Shopping,74,2003,8309,112,7645576,103319
+Vicalvaro,Valderribas,Cultural,5,2008,37655,7531,29701916,5940383
+Vicalvaro,Valderribas,Industrial,7,1999,3037,434,1404643,200663
+Vicalvaro,Valderribas,Offices,1,1975,1837,1837,1177512,1177512
+Vicalvaro,Valderribas,Religious,1,2013,2897,2897,2064241,2064241
+Vicalvaro,Valderribas,Residential,6999,2003,914055,131,694180611,99183
+Vicalvaro,El Cañaveral,Storage-Parking,1002,2017,28260,28,10570696,10550
+Vicalvaro,El Cañaveral,Shopping,69,2017,10983,159,10063180,145843
+Vicalvaro,El Cañaveral,Industrial,4,2013,61902,15476,11893800,2973450
+Vicalvaro,El Cañaveral,Sports,3,2018,3985,1328,1464268,488089
+Vicalvaro,El Cañaveral,Residential,2130,2017,365668,172,255242670,119832
+San Blas-Canillejas,Simancas,Storage-Parking,8864,2002,395349,45,121975451,13761
+San Blas-Canillejas,Simancas,Shopping,701,1972,143022,204,135667433,193534
+San Blas-Canillejas,Simancas,Cultural,16,1967,33312,2082,21804151,1362759
+San Blas-Canillejas,Simancas,Hostelry,261,1992,80752,309,101083554,387293
+San Blas-Canillejas,Simancas,Industrial,766,1980,768524,1003,529486571,691236
+San Blas-Canillejas,Simancas,Sports,3,2006,3018,1006,2886398,962133
+San Blas-Canillejas,Simancas,Offices,2104,2001,1104202,525,1295054435,615520
+San Blas-Canillejas,Simancas,Singular buiding,4,1994,124974,31244,109952967,27488242
+San Blas-Canillejas,Simancas,Religious,3,1988,4714,1571,3570994,1190331
+San Blas-Canillejas,Simancas,Residential,12319,1975,1032554,84,974432642,79100
+San Blas-Canillejas,Simancas,Health and care,11,1970,19558,1778,17600944,1600086
+San Blas-Canillejas,Hellin,Storage-Parking,1,1970,291,291,40267,40267
+San Blas-Canillejas,Hellin,Shopping,80,1976,8666,108,7548498,94356
+San Blas-Canillejas,Hellin,Cultural,4,1976,23689,5922,15119566,3779892
+San Blas-Canillejas,Hellin,Hostelry,8,1982,821,103,663252,82907
+San Blas-Canillejas,Hellin,Industrial,7,1967,1766,252,348260,49751
+San Blas-Canillejas,Hellin,Sports,1,1970,15630,15630,7735202,7735202
+San Blas-Canillejas,Hellin,Offices,2,1987,198,99,169849,84925
+San Blas-Canillejas,Hellin,Religious,1,1980,1158,1158,906657,906657
+San Blas-Canillejas,Hellin,Spectacles,1,2007,1773,1773,1057351,1057351
+San Blas-Canillejas,Hellin,Residential,4118,1970,339352,82,256533977,62296
+San Blas-Canillejas,Hellin,Health and care,2,1986,161,80,144474,72237
+San Blas-Canillejas,Amposta,Storage-Parking,82,1980,3703,45,847928,10341
+San Blas-Canillejas,Amposta,Shopping,457,1963,24199,53,22734521,49747
+San Blas-Canillejas,Amposta,Cultural,1,2002,1607,1607,1482951,1482951
+San Blas-Canillejas,Amposta,Hostelry,1,1960,26,26,16058,16058
+San Blas-Canillejas,Amposta,Industrial,66,1969,6855,104,3693089,55956
+San Blas-Canillejas,Amposta,Offices,13,1964,3632,279,2810849,216219
+San Blas-Canillejas,Amposta,Singular buiding,2,1982,4217,2108,2893329,1446665
+San Blas-Canillejas,Amposta,Religious,2,1968,2861,1430,1917024,958512
+San Blas-Canillejas,Amposta,Residential,3798,1964,248572,65,180234375,47455
+San Blas-Canillejas,Amposta,Health and care,5,1980,14264,2853,10677151,2135430
+San Blas-Canillejas,Arcos,Storage-Parking,811,1999,96263,119,30212766,37254
+San Blas-Canillejas,Arcos,Shopping,364,1986,64700,178,73577590,202136
+San Blas-Canillejas,Arcos,Cultural,17,1976,130212,7660,85567090,5033358
+San Blas-Canillejas,Arcos,Hostelry,4,1970,1731,433,1244078,311020
+San Blas-Canillejas,Arcos,Industrial,37,1992,15540,420,9097352,245874
+San Blas-Canillejas,Arcos,Sports,2,2011,14833,7416,4622005,2311002
+San Blas-Canillejas,Arcos,Offices,4,1963,9431,2358,6605931,1651483
+San Blas-Canillejas,Arcos,Religious,2,1980,3612,1806,2151815,1075907
+San Blas-Canillejas,Arcos,Residential,9861,1976,926709,94,762970754,77373
+San Blas-Canillejas,Arcos,Health and care,10,1975,30717,3072,34455168,3445517
+San Blas-Canillejas,Rosas,Storage-Parking,6408,1998,218586,34,64331066,10039
+San Blas-Canillejas,Rosas,Shopping,725,1992,111274,153,107604853,148420
+San Blas-Canillejas,Rosas,Cultural,24,1982,61606,2567,54120870,2255036
+San Blas-Canillejas,Rosas,Hostelry,2,1998,1681,840,1034589,517295
+San Blas-Canillejas,Rosas,Industrial,31,1993,5743,185,5775281,186299
+San Blas-Canillejas,Rosas,Sports,8,2002,220991,27624,243380788,30422599
+San Blas-Canillejas,Rosas,Offices,23,1988,2278,99,2460100,106961
+San Blas-Canillejas,Rosas,Singular buiding,2,2006,6649,3324,7164456,3582228
+San Blas-Canillejas,Rosas,Religious,4,2003,10553,2638,8856100,2214025
+San Blas-Canillejas,Rosas,Spectacles,1,1979,139,139,150683,150683
+San Blas-Canillejas,Rosas,Residential,12052,1993,1479250,123,1416510329,117533
+San Blas-Canillejas,Rosas,Health and care,6,1999,24119,4020,24800449,4133408
+San Blas-Canillejas,Rejas,Storage-Parking,8340,2005,256558,31,68767397,8245
+San Blas-Canillejas,Rejas,Shopping,142,1982,333786,2351,272344326,1917918
+San Blas-Canillejas,Rejas,Cultural,2,1984,5969,2984,4782586,2391293
+San Blas-Canillejas,Rejas,Hostelry,2213,2007,393573,178,484593720,218976
+San Blas-Canillejas,Rejas,Industrial,288,1988,769602,2672,300430387,1043161
+San Blas-Canillejas,Rejas,Sports,10,2003,15999,1600,10265132,1026513
+San Blas-Canillejas,Rejas,Offices,359,2003,353640,985,268307007,747373
+San Blas-Canillejas,Rejas,Religious,4,1992,6266,1566,3682342,920586
+San Blas-Canillejas,Rejas,Residential,6731,1992,749975,111,685768187,101882
+San Blas-Canillejas,Rejas,Health and care,5,1990,7773,1555,7579464,1515893
+San Blas-Canillejas,Canillejas,Storage-Parking,2706,1987,141160,52,33372772,12333
+San Blas-Canillejas,Canillejas,Shopping,1129,1972,93438,83,76600381,67848
+San Blas-Canillejas,Canillejas,Cultural,15,1972,42642,2843,34151019,2276735
+San Blas-Canillejas,Canillejas,Hostelry,7,1981,16885,2412,16298835,2328405
+San Blas-Canillejas,Canillejas,Industrial,63,1966,128130,2034,72230988,1146524
+San Blas-Canillejas,Canillejas,Sports,15,1850,19473,1298,6469179,431279
+San Blas-Canillejas,Canillejas,Offices,50,1968,7792,156,5400064,108001
+San Blas-Canillejas,Canillejas,Singular buiding,1,1980,2439,2439,2085580,2085580
+San Blas-Canillejas,Canillejas,Religious,13,1973,8983,691,4846158,372781
+San Blas-Canillejas,Canillejas,Spectacles,2,1970,707,354,695114,347557
+San Blas-Canillejas,Canillejas,Residential,12335,1974,1155396,94,935054452,75805
+San Blas-Canillejas,Canillejas,Health and care,12,1984,14602,1217,13374810,1114567
+San Blas-Canillejas,El Salvador,Storage-Parking,1429,1992,107054,75,32738619,22910
+San Blas-Canillejas,El Salvador,Shopping,202,1977,33328,165,35256585,174538
+San Blas-Canillejas,El Salvador,Cultural,5,1985,57997,11599,46431943,9286389
+San Blas-Canillejas,El Salvador,Hostelry,17,1992,36099,2123,54761364,3221257
+San Blas-Canillejas,El Salvador,Industrial,17,1974,5893,347,3548234,208720
+San Blas-Canillejas,El Salvador,Sports,12,1992,19885,1657,11864184,988682
+San Blas-Canillejas,El Salvador,Offices,102,1988,470783,4616,480640753,4712164
+San Blas-Canillejas,El Salvador,Singular buiding,2,1972,21705,10852,21074708,10537354
+San Blas-Canillejas,El Salvador,Religious,3,1952,6669,2223,4526298,1508766
+San Blas-Canillejas,El Salvador,Residential,4876,1982,851847,175,731118708,149942
+San Blas-Canillejas,El Salvador,Health and care,2,1988,84832,42416,95515149,47757574
+Barajas,Alameda de Osuna,Storage-Parking,5246,1991,149451,28,47503152,9055
+Barajas,Alameda de Osuna,Shopping,300,1978,24531,82,28706323,95688
+Barajas,Alameda de Osuna,Cultural,9,1965,84639,9404,82241955,9137995
+Barajas,Alameda de Osuna,Hostelry,277,1980,55367,200,45453710,164093
+Barajas,Alameda de Osuna,Industrial,21,1978,6257,298,4354829,207373
+Barajas,Alameda de Osuna,Sports,24,1985,70968,2957,45051099,1877129
+Barajas,Alameda de Osuna,Offices,69,1989,156320,2266,184029027,2667087
+Barajas,Alameda de Osuna,Singular buiding,3,1945,9399,3133,4480168,1493389
+Barajas,Alameda de Osuna,Religious,7,1970,3368,481,3280898,468700
+Barajas,Alameda de Osuna,Residential,8193,1982,1029618,126,1148523066,140183
+Barajas,Alameda de Osuna,Health and care,12,1986,12701,1058,14978185,1248182
+Barajas,Aeropuerto,Storage-Parking,210,2003,19481,93,4965332,23644
+Barajas,Aeropuerto,Shopping,39,1963,16049,412,13144863,337048
+Barajas,Aeropuerto,Hostelry,5,1985,30950,6190,33989513,6797903
+Barajas,Aeropuerto,Industrial,61,1983,350595,5747,189975885,3114359
+Barajas,Aeropuerto,Sports,2,1950,3015,1508,329216,164608
+Barajas,Aeropuerto,Offices,92,1998,157970,1717,163377667,1775844
+Barajas,Aeropuerto,Singular buiding,1,1970,2305,2305,1914317,1914317
+Barajas,Aeropuerto,Religious,1,1995,5675,5675,784510,784510
+Barajas,Aeropuerto,Residential,580,1962,37284,64,30770532,53053
+Barajas,Aeropuerto,Health and care,4,1978,5650,1412,3859078,964770
+Barajas,Casco Historico de Barajas,Storage-Parking,1504,1987,73097,49,18672768,12415
+Barajas,Casco Historico de Barajas,Shopping,352,1978,31030,88,51265778,145641
+Barajas,Casco Historico de Barajas,Cultural,8,1980,2791,349,3175968,396996
+Barajas,Casco Historico de Barajas,Hostelry,22,1988,37120,1687,42822663,1946485
+Barajas,Casco Historico de Barajas,Industrial,18,1958,2268,126,1915589,106422
+Barajas,Casco Historico de Barajas,Sports,2,1978,1611,806,553065,276532
+Barajas,Casco Historico de Barajas,Offices,22,1985,2721,124,3099038,140865
+Barajas,Casco Historico de Barajas,Singular buiding,2,1997,4854,2427,5695322,2847661
+Barajas,Casco Historico de Barajas,Religious,3,1930,3458,1153,1125351,375117
+Barajas,Casco Historico de Barajas,Spectacles,1,1982,116,116,135013,135013
+Barajas,Casco Historico de Barajas,Residential,3724,1982,391781,105,420857739,113012
+Barajas,Casco Historico de Barajas,Health and care,2,2008,1702,851,1357212,678606
+Barajas,Timon,Storage-Parking,2755,2005,90818,33,29637697,10758
+Barajas,Timon,Shopping,224,1995,46791,209,49163034,219478
+Barajas,Timon,Cultural,6,1976,28797,4800,25090998,4181833
+Barajas,Timon,Hostelry,6,1656,29870,4978,37254942,6209157
+Barajas,Timon,Industrial,36,1994,11753,326,4951792,137550
+Barajas,Timon,Sports,6,1999,263120,43853,250264147,41710691
+Barajas,Timon,Offices,56,2004,21646,387,23452216,418790
+Barajas,Timon,Religious,1,2002,1745,1745,1763182,1763182
+Barajas,Timon,Residential,5592,1998,742118,133,711401214,127218
+Barajas,Timon,Health and care,5,1998,4177,835,3558984,711797
+Barajas,Corralejos,Storage-Parking,2578,2002,91085,35,27651081,10726
+Barajas,Corralejos,Shopping,46,2000,20600,448,19190582,417187
+Barajas,Corralejos,Cultural,2,2010,18912,9456,17952153,8976076
+Barajas,Corralejos,Hostelry,9,1990,695605,77289,566583052,62953673
+Barajas,Corralejos,Industrial,14,1980,23870,1705,20071783,1433699
+Barajas,Corralejos,Sports,4,2006,667114,166778,22676157,5669039
+Barajas,Corralejos,Offices,171,1994,542631,3173,678561119,3968194
+Barajas,Corralejos,Religious,2,2006,3934,1967,3298635,1649317
+Barajas,Corralejos,Spectacles,1,1995,14720,14720,16396755,16396755
+Barajas,Corralejos,Residential,3062,1999,466550,152,556611175,181780
+Barajas,Corralejos,Health and care,3,2009,15177,5059,20072646,6690882
